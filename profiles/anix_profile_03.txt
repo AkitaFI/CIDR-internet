@@ -4,23 +4,3 @@
 #announce: TG: @AkitaUS
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vless://abb0cb0e-0c72-4818-8829-178933bf76e4@46.8.209.104:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=randomized&pbk=z67jBKrK0gsKfg-sz_8_CFMtKq9fAtWJPEJpHvo-OFU&sid=7e2a9d4c5f18b0&type=tcp#🇸🇪Обходы - TG: AirLinkVPNBot |0194| [30ms]
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.26:2083?security=tls&sni=daluan.eu.org&type=ws#🇪🇺 📶LTE|@xex_vpn #25 [77ms]
-vless://93fd443d-52b1-4f6a-b78f-2908b7c16fc0@91.107.181.212:20620#🇪🇺 Europe | Temnuk #170 | Ваш котенок ❤ [82ms]
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.19:23576?flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp#🇪🇺 Europe | Temnuk #183 | Ваш котенок ❤ [77ms]
-vless://88422ff0-1aee-494b-b439-f1f51c4a121b@51.250.9.161:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=5post-gate.x5.ru&fp=randomized&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp#🇫🇮 Finland | Temnuk #219 🏳️ White list | Ваш котенок ❤ [36ms]
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@de.sbrf-cdn342.ru:443?flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=chrome&type=tcp#t.me/freekesha21 - 251 🇷🇺 [212ms]
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@ind8.keepsecured.net:8443?encryption=none&security=reality&sni=cdn.kwork.com&fp=chrome&pbk=J07yFEBPsic7-hLTS2KSxVqI7v4gpfkG6_a2cGKNVFk&sid=10f786a2491b2cd5&type=grpc&serviceName=buysec.ru#t.me/freekesha21 - 241 🇺🇸 [278ms]
-vless://b1fbadbc-6ae6-49e4-a46f-26707cc25bd8@51.250.106.87:443?flow=xtls-rprx-vision&security=reality&sni=cdp.x5.ru&fp=randomized&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a&type=tcp#🇳🇱236Mb | Servers Tech Fzco [84ms]
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@uae.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=random&type=tcp&alpn=http/1.1&headerType=none#t.me/freekesha21 - 424 🇳🇱 [141ms]
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.245.191:2096?encryption=none&security=tls&sni=sni.my111000.tech&type=ws&host=sni.my111000.tech&path=/&allowInsecure=0#0007 | 🌐 Unknown | WL | @freeinternet_byMygalaru [41ms]
-vless://3564d350-e13c-40ac-9cb1-4a234a618982@84.201.162.110:3443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=randomized&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=e67fb918ed6b9ffb&type=tcp#🇷🇺 UFO Hosting — #41 [288ms]
-vless://8c16605a-0b47-44ab-b076-ff4375530c3e@v5.cloudconsole.ru:443?encryption=none&security=reality&sni=yandex.ru&fp=chrome&pbk=MjylKUeDvTTEA64GwDXoRroLgE0f5OOkSiyF5u2smmo&sid=43&type=xhttp&host=vk.com&path=/userapi&mode=auto#t.me/freekesha21 - 529 🇷🇺 [71ms]
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.110.191:2096?encryption=none&security=tls&type=ws&host=sni.my111000.tech&path=/Telegram🇨🇳@WangCai2/&allowInsecure=0#0022 | 🌐 Unknown | WL | @freeinternet_byMygalaru [134ms]
-vless://63e7b216-7e06-4102-a32b-6aa56dd39723@84.201.168.220:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdp.x5.ru&fp=randomized&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a&type=tcp#🇩🇪 Германия ⚪ | cdp.x5.ru | 🔥 от катлер [126ms]
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@est-def.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp&headerType=none#t.me/freekesha21 - 295 🇪🇪 [116ms]
-vless://6c3e3102-1bfe-48b2-aa29-90a4207a389e@185.91.53.217:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=randomized&pbk=xiBnF5t8koXllU1GwzSRmU0Vcbs21DEHCg399WUg1EM&sid=48b65fa924db296e&type=tcp#🇩🇪 Germany — #147 [92ms]
-vless://f95e239a-c9a9-419d-94fa-d0e27aaa83a8@138.124.53.11:1789?flow=xtls-rprx-vision&security=reality&sni=drive.yandex.ru&fp=chrome&pbk=hBFjeM21RtFYytKZZmYd3_RddxRf8vilqfpyR79knCA&sid=889dd12a880450fe&type=tcp#🇪🇺 📶LTE|@xex_vpn #194 [115ms]
-vless://13ac7c9e-579e-4244-8a19-c06bc7007878@51.195.109.34:443?flow=xtls-rprx-vision&security=reality&sni=www.nvidia.com&fp=chrome&pbk=KlybaLW0-grtjEATyTVFIYoWIaoW-Duxi4lcM54_t2U&type=tcp#🇩🇪 Germany | Frankfurt [145ms]
-vless://b1fbadbc-6ae6-49e4-a46f-26707cc25bd8@51.250.102.69:443?flow=xtls-rprx-vision&security=reality&sni=cdp.x5.ru&fp=randomized&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a&type=tcp#🇩🇪428Mb | FDCserversnet [59ms]
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@208.103.161.11:443?encryption=none&security=tls&sni=afrcloud2.c01.kr&type=ws&host=afrcloud2.c01.kr&path=/139.45.214.126:443&allowInsecure=1#t.me/freekesha21 - 149 🇷🇺 [88ms]

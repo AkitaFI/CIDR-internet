@@ -4,23 +4,3 @@
 #announce: TG: @AkitaUS
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vless://301a4309-0f4d-42bf-a057-7d60c7a73259@144.31.30.131:8443?security=reality&sni=eh.vk.com&fp=chrome&pbk=-5-QemzFc7ddcsXFtVEn1ciZmhkdxjnBPmhnqYPJEzM&sid=18730e64df45&type=tcp#🇳🇱 Нидерланды | sni = eh.vk.com | 🔥 от катлер [93ms]
-vless://c96b024e-7c04-45ed-b04a-7b01a0ff25d4@84.201.173.163:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.vk.com&fp=randomized&pbk=66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0&sid=3c1523da43287ec4&type=tcp#🇩🇪 Germany — #28 [32ms]
-vless://9ebab373-19fe-4535-aa95-4e348ea300f1@46.235.186.50:443?encryption=none&security=tls&sni=s28315.cdn.ngenix.net&type=ws&host=s28315.cdn.ngenix.net&path=/ws#t.me/freekesha21 - 360 🇩🇪 [235ms]
-vless://1f034338-33a3-40f7-8e82-e4042e8410af@188.114.97.3:443?security=tls&sni=gardconfig12.bnam38637.workers.dev&type=ws&host=gardconfig12.bnam38637.workers.dev&allowInsecure=0#🇪🇺 Europe | Temnuk #313 | Ваш котенок ❤ [76ms]
-vless://7f3921d9-196c-4116-954f-228bc2e62449@104.168.10.53:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=fr.trustnetx.sbs&type=tcp&alpn=http/1.1,h2#🇫🇷 France, Paris | [BL] [89ms]
-vless://13ac7c9e-579e-4244-8a19-c06bc7007878@57.128.173.126:8443?security=none&type=ws&path=/subscribe/ws#🇬🇧 United Kingdom | London | WS [95ms]
-vless://Tel%3AArshiacomplus@185.171.202.76:42652?encryption=none&security=tls&sni=yahoo.com&fp=chrome&type=xhttp&host=omm.kotlet.org&path=/skkwkqknsjejejwj&mode=stream-one&alpn=h2,http/1.1&allowInsecure=1#🇫🇷 France | 🌐 [*CIDR] [146ms]
-vless://c3e70758-2b79-0003-b006-5280e6a12914@ruy3.mycloud1.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&pbk=9nshCmm-9vUGNStNnuM7dp-qAzB5WxGw_h31xtgB-jI&sid=0a84c890&type=tcp#🇫🇮Финляндия [78ms]
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=qq&type=tcp&alpn=http/1.1&headerType=none#t.me/freekesha21 - 528 🇳🇱 [74ms]
-vless://439f353b-b52f-4355-93d8-26e0567d5308@193.163.203.76:50592?flow=xtls-rprx-vision-udp443&security=tls&sni=api-maps.yandex.ru&fp=chrome&allowInsecure=0#🇩🇪 Германия | sni = api-maps.yandex.ru | 🔥 от катлер [48ms]
-vless://6c3e3102-1bfe-48b2-aa29-90a4207a389e@185.91.53.217:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=randomized&pbk=xiBnF5t8koXllU1GwzSRmU0Vcbs21DEHCg399WUg1EM&sid=8341ca869ed81124&type=tcp#🇵🇱 Poland — #373 [69ms]
-vless://IR_NETLIFY@89.22.236.213:54346?encryption=none&security=none&type=tcp&headerType=none#t.me/freekesha21 - 23 🇸🇪 [122ms]
-vless://aef9ff3f-9c4a-4c42-a0dd-e82709b4c36f@95.163.211.240:8444?encryption=none&security=reality&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c&type=tcp#101. 🇵🇱 VLESS | SNI: max.ru | CIDR: VK | TG: @wlrustg [56ms]
-vless://ba840d96-58f2-48c5-9d34-6a77e25f69d9@tr.c2horizon.app:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tr.c2horizon.app&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&type=tcp&headerType=none#🇹🇷+Турция [142ms]
-vless://4b20138e-25fd-49ef-a85a-dc8967ce1b85@178.154.233.157:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=smartcaptcha.yandexcloud.net&fp=randomized&pbk=2aFBQH0T8BQR8Zwp3Hq2OTF__m_ok0N3Esi_A30LhmE&sid=27e53bbcab7593d7&type=tcp#🇩🇪 Germany | Temnuk #310 🏳️ White list | Ваш котенок ❤ [71ms]
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.153.7.191:2096?encryption=none&security=tls&sni=sni.my111000.tech&type=ws&host=sni.my111000.tech&path=/&allowInsecure=0#0071 | 🇨🇦 Канада | WL | @freeinternet_byMygalaru [163ms]
-vless://a8ebcce6-3260-49a4-9be0-cea2fa479753@82.202.140.8:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.com&pbk=zlmNRlSzdn2zegjL4nFXmOmlBe_2_Wm0mKhD2aeJ9BE&sid=b3&type=raw&headerType=none#🇩🇪 Германия | sni = vk.com | 🔥 от катлер [37ms]
-vless://7aadebf1-300c-4c07-b8d1-390bbee9d6c0@85.208.9.244:8443?flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=chrome&pbk=BrGL0gTKK_Ir2VwJOa91Vd8870DswnOXhA6-F92RBGI&sid=a987b6bd1781daa3&type=tcp#🇪🇺 Europe | Temnuk #337 🏳️ White list | Ваш котенок ❤ [120ms]
-vless://bbe0cd77-bbde-46a7-b0ac-c83d00b3130d@ne2.zovpn.pro:443?encryption=none&security=reality&sni=ne2.zovpn.pro&fp=chrome&pbk=NAxjDSF7aeMUSjnkCAp9Aujb6UUaEZtbM-9IQew7bG4&sid=4be3b5e3&type=xhttp&path=/germany-xhttp&mode=auto#🇳🇱 Netherlands-2?serverDescription=0LzQvtGJ0L3Qvg== [200ms]
-vless://AliTignal500GB@151.101.1.57:80?encryption=none&type=xhttp&host=tignaltofan.global.ssl.fastly.net&path=/TignaliSWithYou&mode=auto#🇫🇷 France | Igareck #109 | Ваш котенок ❤ [136ms]

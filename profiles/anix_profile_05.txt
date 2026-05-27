@@ -4,23 +4,3 @@
 #announce: TG: @AkitaUS
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vless://3974f8a0-e823-4aed-afb2-d24ab190b150@31.129.42.122:443?encryption=none&type=grpc&security=reality&mode=gun&fp=randomized&sni=api-maps.yandex.ru&pbk=dZwaeGvFS34wVBQOQ5q1c9xs8t1HHu2h9CdxnTGeuAw&sid=11a33a97aa&spx=/#🇳🇱 Netherlands Server [147ms]
-vless://39e71d10-1ee8-4ec2-9c8f-5f3eec56beef@87.228.101.37:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=m.vk.com&pbk=HhzAvJmqEjt_CeifAJmDfg7DgeD2t2cvzWqvyyPSVz0&sid=664b8a28e735af5f&spx=/#🇳🇱 Netherlands Server [110ms]
-vless://e3c68e9e-5bf3-4e4b-abac-806053baa43a@uss.mynethub99.top:80?headertype=none&security=none&type=tcp#🇺🇸 United States Server [193ms]
-vless://d437d353-4ca9-4c31-8295-33b3ba8ee42f@104.18.140.67:443?type=xhttp&security=tls&sni=sahah.temas-arvha.ir&host=sahah.temas-arvha.ir&mode=packet-up#🇪🇺 Europe Server [110ms]
-vless://f863d680-0959-4405-980c-5717c21415b0@95.163.211.240:8444?encryption=none&type=tcp&security=reality&fp=randomized&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇵🇱 Poland Server [47ms]
-vless://4d4f49cd-ecbb-4a81-a605-0a2b330b90bf@152.53.254.11:443?encryption=none&security=reality&sni=yandex.ru&pbk=vAdgQ9tv8MLqRrVDqL2chsLYWCIHFRGcPbwf9EOaZS8&type=grpc#🇩🇪 Germany Server [96ms]
-vless://20bb42de-6b0e-4ab6-a64a-51b123a3d7ed@91.219.227.203:8083?encryption=none&type=tcp&security=reality&fp=randomized&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇫🇮 Finland Server [82ms]
-vless://aef9ff3f-9c4a-4c42-a0dd-e82709b4c36f@95.163.211.240:8444?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇵🇱 Poland Server [92ms]
-vless://f863d680-0959-4405-980c-5717c21415b0@91.219.227.203:7433?encryption=none&type=tcp&security=reality&fp=randomized&sni=eh.vk.com&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇩🇪 Germany Server [112ms]
-vless://f863d680-0959-4405-980c-5717c21415b0@95.163.211.240:8081?encryption=none&type=tcp&security=reality&fp=randomized&sni=sso.passport.yandex.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇫🇷 France Server [95ms]
-vless://a85a4d28-7d14-4004-98ce-ed1ccd6c50bd@plmw.verymad.net:28737?type=tcp&headerType=none&security=reality&encryption=none&sni=www.vk.com&fp=chrome&pbk=Q8yB9j_8uP7SgGdVZdQQBzcnB7IROViEbnGtedncSVo&sid=ea7d&spx=/nDxS0fLAH2tG35O#🇵🇱 Poland Server [150ms]
-vless://39e71d10-1ee8-4ec2-9c8f-5f3eec56beef@87.228.101.57:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=rutube.ru&pbk=HhzAvJmqEjt_CeifAJmDfg7DgeD2t2cvzWqvyyPSVz0&sid=664b8a28e735af5f&spx=/#🇳🇱 Netherlands Server [56ms]
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.68.5.191:443?type=ws&security=tls&sni=sni.my111000.tech&host=sni.my111000.tech#🇪🇺 Europe Server [67ms]
-vless://b7560990-b371-46e9-b02d-1fae800760a5@94.141.160.177:443?security=reality&type=tcp&headerType=&path=&host=de1.akr177.com&flow=xtls-rprx-vision&sni=de1.akr177.com&fp=firefox&pbk=zVRPcruNNXJ5AZJTMZ6yo1g9evmVpEJaS_Mo0f00vkM&sid=73e5764db1d3998e#🇩🇪 Germany Server [164ms]
-vless://0cdca456-3e0a-000a-866d-4984eb9eff5a@185.91.52.231:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=bucket-ru-6.extravpn.io&fp=randomized&sni=bucket-ru-6.extravpn.io&pbk=qmj3LynPhFqW4pVQf47vfPx-nnykWXxuzNoWmw_DEyc#🇫🇮 Finland Server [101ms]
-vless://d9fadf8e-934b-4bf0-9235-8f3e2b0ca256@84.201.177.174:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=ads.x5.ru&pbk=xiBnF5t8koXllU1GwzSRmU0Vcbs21DEHCg399WUg1EM&sid=8341ca869ed81124#🇩🇪 Germany Server [85ms]
-vless://04913a93-529d-0230-9ffd-b37948df532b@158.160.243.8:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM&sni=api-maps.yandex.ru#🇷🇺 Russia Server [77ms]
-vless://a0ae4e44-480c-4282-b526-f1bdf749e0d1@104.16.7.70:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=c.downloadphysics.ir&fp=chrome&type=ws&allowInsecure=0&sni=c.downloadphysics.ir#🇪🇺 Europe Server [201ms]
-vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@vltch.mostserv.xyz:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&sid=226509f017e4c36d&sni=vltch.mostserv.xyz&mode=multi&spx=/&servername=vltch.mostserv.xyz#🇱🇹 Lithuania Server [233ms]
-vless://6ad4bf15-3b06-4a01-ef71-cd366de98120@47.82.151.234:26866?encryption=none&security=none&type=tcp&headerType=none#🇸🇬 Singapore Server [291ms]

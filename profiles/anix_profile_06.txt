@@ -4,23 +4,3 @@
 #announce: TG: @AkitaUS
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vless://6384e144-a8c9-49f5-bbc7-6ea141ce4dce@lat.tlsov.pro:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=&pbk=K42aHYxM9Lt1Tl4vF-OniHV5pNju-wnB_opA-hVihgs&sid=1000#🇱🇻 Latvia Server [100ms]
-vless://ae8ddd8e-00af-48e5-bd57-05074a1bbffb@2.26.3.148:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&sid=67ccfc02&sni=www.deepl.com#🇪🇺 Europe Server [112ms]
-vless://04913a93-529d-0244-9ffd-b37948df532b@158.160.243.8:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM&sni=api-maps.yandex.ru#🇷🇺 Russia Server [62ms]
-vless://e4be313b-72b0-4d5a-96de-b73de351a32b@51.250.106.87:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇳🇱 Netherlands Server [144ms]
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.142.120.191:2096?encryption=none&security=tls&sni=sni.my111000.tech&insecure=0&allowInsecure=0&type=ws&host=sni.my111000.tech&path=Telegram@WangCai2/#🇨🇦 Canada Server [62ms]
-vless://d44fff0c-ba05-0006-b128-988a11c62229@fee.sysnx.net:443?type=tcp&security=reality&pbk=bHJX9dPTq-cC6emezmORQ52XZDFXXMD1a64YMv9nxmo&fp=qq&sni=ozon.ru&sid=0692860e9ae735cb&flow=xtls-rprx-vision#🇫🇷 France Server [84ms]
-vless://93fd443d-52b1-4f6a-b78f-2908b7c16fc0@91.107.181.212:20620#🇪🇺 Europe Server [122ms]
-vless://9ebab373-19fe-4535-aa95-4e348ea300f1@212.193.155.32:443?encryption=none&type=ws&security=tls&path=/ws&host=s28315.cdn.ngenix.net&sni=s28315.cdn.ngenix.net&alpn=h2,http/1.1#🇫🇷 France Server [75ms]
-vless://9ebab373-19fe-4535-aa95-4e348ea300f1@78.41.110.238:443?encryption=none&type=ws&security=tls&path=/ws&host=s28315.cdn.ngenix.net&sni=s28315.cdn.ngenix.net#🇫🇷 France Server [96ms]
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.148.191:443?encryption=none&security=tls&sni=sni.my111000.tech&insecure=1&allowInsecure=1&type=ws&host=sni.my111000.tech&path=/#0039 | 🌐 Unknown | WL | @freeinternet_byMygalaru [49ms] [99ms]
-vless://301a4309-0f4d-42bf-a057-7d60c7a73259@144.31.30.131:8443?allowInsecure=0&sni=eh.vk.com&fp=chrome&security=tls#🇺🇸 United States Server [86ms]
-vless://2730487f-0ed5-4f04-92d5-f95f9253d4f4@172.67.135.69:443?allowInsecure=0&type=ws&security=tls&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev#🇪🇺 Europe Server [124ms]
-vless://31f7606c-e37d-42fe-90bd-8ef939e87b31@178.154.233.157:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=ads.x5.ru&pbk=tIHa249H9L7bLnch0cJdw-RZvAlIqhmKwlX09jHVvHU&sid=27e53bbcab7593d7&spx=/#🇩🇪 Germany Server [123ms]
-vless://e62d084a-b9de-4486-a776-a54d200f89c1@172.67.134.91:443?allowInsecure=0&type=ws&security=tls&sni=square-sea-36d2.sendconfig.workers.dev&host=square-sea-36d2.sendconfig.workers.dev#🇪🇺 Europe Server [101ms]
-vless://f4bad870-4b45-4a46-bec6-d05fa31df1cb@2.26.76.140:443?fp=chrome&host=m.twitch.tv&mode=stream-up&path=/&pbk=r2B2KwffHmyjWrmwKmI0o3uW9UEsn2l_Ko0UmyTjKgM&security=reality&sni=m.twitch.tv&type=xhttp#🇳🇱 Netherlands Server [78ms]
-vless://dc4aefbf-7b6e-4411-bf90-40772de72124@51.250.9.161:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=ads.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇫🇮 Finland Server [98ms]
-vless://04afe11c-7141-42b3-ae5b-48e4e711109e@62.152.58.114:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=wl-13-1.nodes.ac&pbk=jAJoyWJ4nMGai3H9BOa6QMUr2Vvpgqs8VipbaO5mCVU&sid=3130197867c23edb#🇳🇱 Netherlands Server [97ms]
-vless://83cdc6b7-e861-47ed-b7d8-7c2b99803a0a@pl.nurcloud.org:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=pl.nurcloud.org&fp=chrome&pbk=-j5dH5-fdHKz65rigsk6p0hcEPsZYjvo-8Xgi3hWoE0&sid=3267010a79e8e107&spx=/#🇵🇱 Poland Server [176ms]
-vless://f863d680-0959-4405-980c-5717c21415b0@95.163.211.240:8081?encryption=none&type=tcp&security=reality&fp=randomized&sni=eh.vk.com&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇫🇷 France Server [81ms]
-vless://7c365927-1e4c-4f4f-b41c-e95374332c1e@37.143.14.99:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=ads.x5.ru&pbk=6NHx7OBkTEppAb58ke8XhLDoBrutczt_JPUWP_h9DRE&sid=5d8e1a9c4f72b3#🇸🇪 Sweden Server [51ms]

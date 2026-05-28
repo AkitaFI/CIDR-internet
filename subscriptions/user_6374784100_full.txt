@@ -2,7 +2,7 @@
 #profile-update-interval: 3
 #support-url: https://t.me/akita_bio
 #announce: TG: @AkitaUS
-#subscription-userinfo: upload=74289; download=74289; total=148578; expire=0
+#subscription-userinfo: upload=78186; download=78186; total=156372; expire=0
 
 vless://f4bad870-4b45-4a46-bec6-d05fa31df1cb@fr.clgate.network:443?mode=stream-up&security=reality&encryption=none&pbk=r2B2KwffHmyjWrmwKmI0o3uW9UEsn2l_Ko0UmyTjKgM&fp=chrome&allow&type=xhttp&sni=m.twitch.tv#🇫🇷 France
 vless://InternetAzadRobot@146.75.117.91:80?encryption=none&security=none&type=xhttp&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#🇬🇧 United Kingdom

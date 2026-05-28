@@ -4,12 +4,14 @@
 #announce: TG: @AkitaUS
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vless://f4bad870-4b45-4a46-bec6-d05fa31df1cb@fr.clgate.network:443?mode=stream-up&security=reality&encryption=none&pbk=r2B2KwffHmyjWrmwKmI0o3uW9UEsn2l_Ko0UmyTjKgM&fp=chrome&allow&type=xhttp&sni=m.twitch.tv#🇫🇷 France
-vless://InternetAzadRobot@146.75.117.91:80?encryption=none&security=none&type=xhttp&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#🇬🇧 United Kingdom
-vless://279828c6-13f2-439c-9a4e-ea7d4f470fa4@g1.steptofreedom.one:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&security=reality&sid=6d6f13013d3e1d0c&sni=g1.steptofreedom.one&type=tcp#🇬🇧 United Kingdom
-vless://10e82fcc-94ec-4d09-8855-579bb55b77e4@45.134.218.191:8443?security=reality&encryption=none&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&headerType=none&fp=chrome&allow&type=tcp&flow=xtls-rprx-vision&sni=www.google.com#🇳🇱 Netherlands
-vless://10e82fcc-94ec-4d09-8855-579bb55b77e4@node.fi1-cosmostechnology.ru:8443?security=reality&encryption=none&pbk=rzdJQamSRE_3xi0lgN3Kh157RLRQBewwg1Z3-LwFuWo&headerType=none&fp=chrome&allow&type=tcp&flow=xtls-rprx-vision&sni=fi1-cosmostechnology.ru#🇵🇱 Poland
-vless://0c57b186-b8c7-4948-8d82-7548ad1af428@se.alorvpn.fun:443?security=reality&encryption=none&pbk=GhRS0DArxmmgxh0WYlA1vLu1HrS_1oiFmWRr0dZlPnk&headerType=none&fp=chrome&allow&type=tcp&flow=xtls-rprx-vision&sni=www.twitch.tv&sid=0f4f5970da2af8d7#🇸🇪 Sweden
-vless://abef4e1f-5010-41d3-9561-e5d1e0f8ac7f@s1.cloudflare.ips-list.vhub.pro:443?sni=cloudflare.vhub.pro&alpn=http/1.1&type=ws&security=tls#🇺🇸 United States
-vless://e3c68e9e-5bf3-4e4b-abac-806053baa43a@uss.mynethub99.top:80?encryption=none&type=raw&headerType=none&security=none#🇺🇸 United States
-vless://e3c68e9e-5bf3-4e4b-abac-806053baa43a@uss.mynethub99.top:80?type=tcp&encryption=none&security=none#🇺🇸 United States
+vless://Telegram-Parsashonam-2@165.215.250.12:443?mode=auto&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=xhttp&sni=p4r34m.hendevaneh.sbs#🇩🇪 Germany
+vless://9bc46020-c550-439a-86c5-38f64abc1ffd@eeshka.api.dznn.net:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eeshka.api.dznn.net&sid=0a6ba2716a409da6#🇪🇪 Estonia
+vless://b5a40d5b-7b4e-41d6-8d6c-cbc724798707@free01.tunnely.ru:8080?encryption=none&type=ws&security=none#🇬🇧 United Kingdom
+vless://5da05cf7-9913-45a9-a7c6-71a41b1cd713@l6.l-itx.info:7443?mode=gun&security=reality&encryption=none&authority=&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&fp=chrome&allow&type=grpc&serviceName=xyz&sni=colorlib.com&sid=6ba85179e30d4fc3#🇮🇱 Israel
+vless://5da05cf7-9913-45a9-a7c6-71a41b1cd713@l6.l-itx.info:7443?security=reality&type=grpc&headerType=&serviceName=xyz&authority=&mode=gun&sni=colorlib.com&fp=chrome&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&sid=6ba85179e30d4fc3&authority=colorlib.com#🇮🇱 Israel
+vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?encryption=none&type=ws&security=tls&sni=jp.aniua.qzz.io#🇯🇵 Japan
+vless://e258977b-e413-4718-a3af-02d75492c349@81.255.155.10:443?security=tls&sni=jp.aniua.qzz.io&type=ws#🇯🇵 Japan
+vless://8cddd533-9611-4fc4-adda-7d629743b4b2@api.chat.video.cdn.vles.space:1443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=botapi.max.ru&fp=chrome&pbk=Ej_PPr2iomuIl23svqB6FgWf2Sw6FMC6ipavO5w5OXY&sid=099755ac7b731e9e&type=tcp&headerType=none#🇲🇩 Moldova
+vless://8cddd533-9611-4fc4-adda-7d629743b4b2@med.vles.space:4546?security=reality&encryption=none&pbk=3DLDFzq0NAYBMrhDOaMM04A_Ictohao2yWOY1NdrJCk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprise.api-maps.yandex.ru#🇳🇱 Netherlands
+vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?encryption=none&type=ws&security=tls&sni=jp.aniua.qzz.io#🇸🇬 Singapore
+vless://f00984ef-f57e-41db-9182-b25f7bc3a1e2@2.26.54.52:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=germanyplay.stardevs.top&fp=chrome&security=reality&pbk=JbVabf_OI9mnt7gzn9hIj_8h7yyDzAqDP6XfhvhULjU&sid=f37fb7531c60780d#🇺🇸 United States

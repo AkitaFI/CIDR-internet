@@ -2,7 +2,7 @@
 #profile-update-interval: 3
 #support-url: https://t.me/akita_bio
 #announce: TG: @AkitaUS
-#subscription-userinfo: upload=86041; download=86041; total=172082; expire=0
+#subscription-userinfo: upload=89821; download=89821; total=179642; expire=0
 
 vless://Telegram-Parsashonam-2@165.215.250.12:443?mode=auto&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=xhttp&sni=p4r34m.hendevaneh.sbs#🇩🇪 Germany
 vless://9bc46020-c550-439a-86c5-38f64abc1ffd@eeshka.api.dznn.net:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eeshka.api.dznn.net&sid=0a6ba2716a409da6#🇪🇪 Estonia

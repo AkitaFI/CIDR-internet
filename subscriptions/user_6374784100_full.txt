@@ -1,0 +1,20 @@
+#profile-title: Anix VPN - Full version 🕊️
+#profile-update-interval: 3
+#support-url: https://t.me/akita_bio
+#announce: TG: @AkitaUS
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?encryption=none&type=ws&security=tls&sni=jp.aniua.qzz.io#🇨🇦 Canada
+vless://10e82fcc-94ec-4d09-8855-579bb55b77e4@sw2.fi1-cosmostechnology.ru:443?flow=xtls-rprx-vision&fp=qq&headertype=none&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&security=reality&sni=fi1-cosmostechnology.ru&type=tcp#🇨🇾 Cyprus
+vless://10e82fcc-94ec-4d09-8855-579bb55b77e4@sw3.fi1-cosmostechnology.ru:443?flow=xtls-rprx-vision&fp=qq&headertype=none&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&security=reality&sni=fi1-cosmostechnology.ru&type=tcp#🇨🇾 Cyprus
+vless://10e82fcc-94ec-4d09-8855-579bb55b77e4@nl2.fi1-cosmostechnology.ru:443?flow=xtls-rprx-vision&fp=qq&headertype=none&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&security=reality&sni=fi1-cosmostechnology.ru&type=tcp#🇳🇱 Netherlands
+vless://9bc46020-c550-439a-86c5-38f64abc1ffd@ninka.api.dznn.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&security=reality&sid=19aa22f681923dc8&sni=ninka.api.dznn.net&type=tcp#🇳🇱 Netherlands
+vless://10e82fcc-94ec-4d09-8855-579bb55b77e4@nl2.fi1-cosmostechnology.ru:443?security=reality&encryption=none&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&headerType=none&fp=qq&allow&type=tcp&flow=xtls-rprx-vision&sni=fi1-cosmostechnology.ru#🇳🇱 Netherlands
+vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@5.253.31.13:443?allow&alpn=http/1.1&flow=xtls-rprx-vision&fp=random&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#🇳🇱 Netherlands
+vless://8cddd533-9611-4fc4-adda-7d629743b4b2@med.vles.space:4546?security=reality&encryption=none&pbk=3DLDFzq0NAYBMrhDOaMM04A_Ictohao2yWOY1NdrJCk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprise.api-maps.yandex.ru#🇳🇱 Netherlands
+vless://10e82fcc-94ec-4d09-8855-579bb55b77e4@150.241.93.46:8443?security=reality&encryption=none&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&headerType=none&fp=chrome&allow&type=tcp&flow=xtls-rprx-vision&sni=www.google.com#🇵🇱 Poland
+vless://10e82fcc-94ec-4d09-8855-579bb55b77e4@node.fi1-cosmostechnology.ru:8443?security=reality&encryption=none&pbk=rzdJQamSRE_3xi0lgN3Kh157RLRQBewwg1Z3-LwFuWo&headerType=none&fp=chrome&allow&type=tcp&flow=xtls-rprx-vision&sni=fi1-cosmostechnology.ru#🇵🇱 Poland
+vless://0c57b186-b8c7-4948-8d82-7548ad1af428@fi.alorvpn.fun:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=Bo_kIJT9Th_a6kwam6PPsI3LD948GjOylls7TRjEPzM&security=reality&sid=7a5511334933d1b1&sni=www.twitch.tv&type=tcp#🇺🇸 United States
+vless://0c57b186-b8c7-4948-8d82-7548ad1af428@2.26.2.8:443?security=reality&encryption=none&pbk=lJzZE7GpvBZPY4TFNT9BHEtyNLNfYVkzynoeva-74F0&headerType=none&fp=chrome&allow&type=tcp&flow=xtls-rprx-vision&sni=www.twitch.tv&sid=f8a49c6d321be160#🇺🇸 United States
+vless://0c57b186-b8c7-4948-8d82-7548ad1af428@fi.alorvpn.fun:443?security=reality&encryption=none&pbk=Bo_kIJT9Th_a6kwam6PPsI3LD948GjOylls7TRjEPzM&headerType=none&fp=chrome&allow&type=tcp&flow=xtls-rprx-vision&sni=www.twitch.tv&sid=7a5511334933d1b1#🇷🇺 Russia
+vless://5610a52c-48e0-4e8c-9230-fb302b04d02e@ss.ll0ll.vip:2096?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#🇷🇺 Russia

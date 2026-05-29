@@ -2,7 +2,7 @@
 #profile-update-interval: 3
 #support-url: https://t.me/akita_bio
 #announce: TG: @AkitaUS
-#subscription-userinfo: upload=121; download=121; total=242; expire=0
+#subscription-userinfo: upload=20038; download=20038; total=40076; expire=0
 
 vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?security=tls&encryption=none&ech=ip.gs udp://8.8.8.8&type=ws&sni=jp.aniua.qzz.io#🇦🇪 United Arab Emirates
 vless://a5c689ce-ef93-4a6a-8b74-3dbe2287d71b@152.53.53.168:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cloudrynth.com&fp=firefox&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y#🇦🇹 Austria CIDR

@@ -4,12 +4,25 @@
 #announce: TG: @AkitaUS
 #subscription-userinfo: upload=242767; download=242767; total=485534; expire=0
 
-vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?encryption=none&type=ws&security=tls&sni=jp.aniua.qzz.io#🇦🇪 United Arab Emirates
-vless://b5a40d5b-7b4e-41d6-8d6c-cbc724798707@free01.tunnely.ru:8080?encryption=none&type=ws&security=none#🇬🇧 United Kingdom
+vless://e7902151-e2e1-4d29-a84b-86f0d5d91b65@berocd.herumhas.shop:9443?type=tcp&security=tls&encryption=none&fp=chrome&sni=berocd.herumhas.shop&flow=xtls-rprx-vision#🇩🇪 Germany
+vless://afc941a0-b6b4-42d1-b284-d59a42f083fd@194.58.41.65:443?type=grpc&headerType=none&security=reality&encryption=none&sni=www.microsoft.com&fp=chrome&pbk=cjCwI7alv-GUgef0TW7i-S7jNgnIoZ6aooGYH7Nopxs&sid=deadbeef&serviceName=GrpcFuckRKN#🇩🇪 Germany
+vless://3c5ca504-1ef8-43d5-ada6-e290f39722f2@69.84.182.48:443?encryption=none&type=ws&security=tls&sni=jffjjhgfhh.yallda.com&alpn=h2%2Chttp%2F1.1&fp=chrome#🇩🇪 Germany
+vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@63.141.128.5:2083?security=tls&encryption=none&fp=chrome&type=ws&sni=mzaxmc.lizardshop.org#🇩🇪 Germany
+vless://InternetAzadRobot@146.75.117.91:80?mode=auto&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#🇫🇷 France
+vless://InternetAzadRobot@146.75.117.91:80?encryption=none&security=none&type=xhttp&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#🇬🇧 United Kingdom
+vless://InternetAzadRobot@146.75.117.91:80?mode=auto&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#🇬🇧 United Kingdom
+vless://InternetAzadRobot@146.75.117.91:80?mode=auto&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&type=xhttp#🇬🇧 United Kingdom
+vless://InternetAzadRobot@146.75.117.91:80?encryption=none&security=none&type=xhttp&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#🇬🇧 United Kingdom
+vless://InternetAzadRobot@146.75.117.91:80?mode=auto&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#🇬🇧 United Kingdom
+vless://e258977b-e413-4718-a3af-02d75492c349@81.255.155.10:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=ws&security=tls&sni=jp.aniua.qzz.io#🇯🇵 Japan
 vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?encryption=none&type=ws&security=tls&sni=jp.aniua.qzz.io#🇯🇵 Japan
-vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?encryption=none&type=ws&security=tls&sni=jp.aniua.qzz.io&fp=chrome#🇯🇵 Japan
-vless://e258977b-e413-4718-a3af-02d75492c349@81.255.154.10:443?encryption=none&type=ws&security=tls&sni=jp.aniua.qzz.io#🇯🇵 Japan
+vless://e258977b-e413-4718-a3af-02d75492c349@81.255.155.10:443?security=tls&encryption=none&type=ws&sni=jp.aniua.qzz.io#🇯🇵 Japan
+vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?encryption=none&type=ws&security=tls&sni=jp.aniua.qzz.io#🇯🇵 Japan
 vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?security=tls&encryption=none&type=ws&sni=jp.aniua.qzz.io#🇯🇵 Japan
-vless://ee9d83d7-b8b8-4f57-8b82-f713b6771d57@node-nd-2.axmavpn.xyz:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=uILzp9D5ysN77r93evdcgHyy85kkvJgH-WGuMq2BJzw&security=reality&sid=feedfeed&sni=ajax.aspnetcdn.com&type=tcp#🇳🇱 Netherlands
-vless://9204afcd-026e-781f-1abc-c03efabd1344@zzus5.ainivp.com:13405?encryption=none&sni=www.microsoft.com&security=reality&pbk=epgveXEcUs0sbs4jV_1KldTkZGnWUHfMKcs0XNyP41Y&sid=a1b2c3d4&flow=xtls-rprx-vision&fp=chrome&udp=1#🇺🇸 United States
-vless://abef4e1f-5010-41d3-9561-e5d1e0f8ac7f@s1.cloudflare.ips-list.vhub.pro:443?sni=cloudflare.vhub.pro&alpn=http/1.1&type=ws&security=tls#🇺🇸 United States
+vless://bdddc783-a4f3-47f7-8850-21416d0a31f1@noble-nest.scan-cdn.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=tradingview.com&fp=chrome&pbk=OTovueIB0arbpOZ02tZLnh0DdIhRzO-AZB5Vf3rXlV4&sid=fba0460a7767cfff&flow=xtls-rprx-vision#🇳🇱 Netherlands
+vless://48264301-dce4-4c4a-a91a-f5d8276ff362@nl-u16.vpn-port.com:443?mode=gun&security=reality&encryption=none&authority=&pbk=ixTpiJJA-oOL0jUjjc9N_feC-WX_1tsgqfyZmzYNcTI&fp=chrome&spx=%2FIlxVGULLCSpDFtY&allow&type=grpc&serviceName=&sni=www.yimg.com&sid=c804d085f2d1#🇳🇱 Netherlands
+vless://8cddd533-9611-4fc4-adda-7d629743b4b2@med.vles.space:4546?security=reality&encryption=none&pbk=3DLDFzq0NAYBMrhDOaMM04A_Ictohao2yWOY1NdrJCk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprise.api-maps.yandex.ru#🇳🇱 Netherlands
+vless://ab7ededa-a2cd-4381-8ea6-d39d2f91dcf6@germany1.banovano.space:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.yandex.ru&fp=chrome&pbk=rUCPHLqnPkePldNW05cfPZ8FM8VSmnB6e5dkGNHk_0M&sid=a9ff&flow=xtls-rprx-vision#🇵🇱 Poland
+vless://ab7ededa-a2cd-4381-8ea6-d39d2f91dcf6@191.44.112.22:443?flow=xtls-rprx-vision&fp=chrome&pbk=rUCPHLqnPkePldNW05cfPZ8FM8VSmnB6e5dkGNHk_0M&security=reality&sid=a9ff&sni=www.yandex.ru&type=tcp#🇵🇱 Poland
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:22231?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision-udp443&sni=r1.mizulina.top#🇺🇸 United States
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@166.88.186.161:666?security=tls&encryption=none&fp=chrome&type=ws&sni=166.88.186.161#🇺🇸 United States

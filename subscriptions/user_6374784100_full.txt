@@ -2,7 +2,7 @@
 #profile-update-interval: 3
 #support-url: https://t.me/akita_bio
 #announce: TG: @AkitaUS
-#subscription-userinfo: upload=199198; download=199198; total=398396; expire=0
+#subscription-userinfo: upload=211673; download=211673; total=423346; expire=0
 
 vless://322ffd77-9adc-4e10-8302-a8bcc14555a0@93.88.203.101:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gateway.icloud.com&fp=qq&pbk=-ZIDWF9CykNoZYNpO6Vi7BdDyZl_hJUYxuIRmPnuxBk&sid=c6118398#[463ms Россия RU 🇷🇺 @vlesstrojan]
 vless://dc1ffe45-d771-4bf9-afd5-fa08b102a11e@8.6.112.0:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=gxl1.parhamm1.ir&sni=gxl1.parhamm1.ir# By EbraSha 🔐

@@ -4,89 +4,77 @@
 #announce: TG: @AkitaUS
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?security=tls&encryption=none&ech=ip.gs udp://8.8.8.8&type=ws&sni=jp.aniua.qzz.io#🇦🇪 United Arab Emirates
-vless://a5c689ce-ef93-4a6a-8b74-3dbe2287d71b@152.53.53.168:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cloudrynth.com&fp=firefox&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y#🇦🇹 Austria CIDR
-vless://ee0dceba-05e2-4212-a794-fc955f3a3027@78.17.100.107.blanesik.space:443?type=grpc&headerType=none&security=tls&encryption=none&sni=78.17.100.107.blanesik.space&fp=chrome&alpn=h2&serviceName=%2Fsequre%2Fgrpc#🇨🇦 Canada
+vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?encryption=none&type=ws&security=tls&sni=jp.aniua.qzz.io#🇦🇪 United Arab Emirates
+vless://e258977b-e413-4718-a3af-02d75492c349@216.24.57.6:443?security=tls&encryption=none&echfq=none&allow&type=ws&sni=jp.aniua.qzz.io#🇦🇪 United Arab Emirates
+vless://e258977b-e413-4718-a3af-02d75492c349@81.255.154.10:443?security=tls&encryption=none&ech=ip.gs+udp://8.8.8.8&type=ws&sni=jp.aniua.qzz.io#🇦🇪 United Arab Emirates
+vless://e258977b-e413-4718-a3af-02d75492c349@216.24.57.6:443?security=tls&encryption=none&ech=ip.gs+udp://8.8.8.8&type=ws&sni=jp.aniua.qzz.io#🇦🇪 United Arab Emirates
+vless://ee0dceba-05e2-4212-a794-fc955f3a3027@78.17.100.107.blanesik.space:443?type=grpc&security=tls&encryption=none&fp=chrome&sni=78.17.100.107.blanesik.space&alpn=h2&serviceName=%2Fsequre%2Fgrpc&authority=grpc.vhub.pro&mode=gun#🇧🇷 Brazil
+vless://49882640-5877-4f73-a49e-86e209d080a9@B0Jfrw28EYEY.ch1.node.iranray.online:443?security=reality&encryption=none&pbk=naf6H9L1go-oR7-WnKoDoZJ87JEYhMHPqnrcttPXv1A&headerType=none&fp=firefox&type=tcp&sni=icloud.com&sid=7a3bc9#🇨🇭 Switzerland CIDR
+vless://1b43419a-b711-40d4-a0ee-eb5c73e60c92@ger-nnn.prostosetup.org:443?security=reality&encryption=none&pbk=y3ZMu-ium5mBqE_h3xJ66vT0Z6HCIlTDti9emCQjDjw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=bcb6b0217a1206b3#🇩🇪 Germany
+vless://04b82b7c-77ab-41e9-89a2-5e605453ce5b@198.105.115.100:81?type=grpc&security=none&encryption=none&serviceName=gprc&mode=gun#🇩🇪 Germany
+vless://a3eb4c35-c1df-4448-968c-f6229cba9de0@probabblynot.fazelextremeisreal.com:29870?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=cWrLzTqWRYMQq8vsgN7rHtUxrDdqxDLNEWAuo_eXlRU&sni=www.refersion.com&sid=821863f0&spx=%2FThCIJ6AlpUdv5Oh#🇩🇪 Germany
 vless://2f26f4ba-cf36-4720-b8ff-2e4038c2c8f9@2.27.59.11:444?fp=chrome&mode=auto&pbk=ETus3kZBv7feaOnuNWL_iUh4wTEes4vRYmB8DWO5FBs&security=reality&spx=%2F&type=xhttp#🇩🇪 Germany
-vless://Telegram-Parsashonam-2@165.215.250.12:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=p4r34m.hendevaneh.sbs&fp=chrome&alpn=h2%2Chttp%2F1.1#🇩🇪 Germany
-vless://Telegram-Parsashonam-2@208.103.161.101:443?mode=auto&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=xhttp&sni=p4r34m.hendevaneh.sbs#🇩🇪 Germany
-vless://Telegram-Parsashonam-2@208.103.161.101:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=p4r34m.hendevaneh.sbs&fp=chrome&alpn=h2%2Chttp%2F1.1#🇩🇪 Germany
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@de.sbrf-cdn342.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=sub.sbrf-cdn342.ru#🇩🇪 Germany
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@de.sbrf-cdn342.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=qq&sni=sub.sbrf-cdn342.ru#🇩🇪 Germany
-vless://4c60729d-7473-4f00-9bff-ea30942f0003@51.250.103.104:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇩🇪 Germany
+vless://ee0dceba-05e2-4212-a794-fc955f3a3027@78.17.100.107.blanesik.space:443?type=grpc&headerType=none&security=tls&encryption=none&sni=78.17.100.107.blanesik.space&fp=chrome&alpn=h2&serviceName=%2Fsequre%2Fgrpc#🇩🇪 Germany
+vless://ab7ededa-a2cd-4381-8ea6-d39d2f91dcf6@germany1.banovano.space:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=rUCPHLqnPkePldNW05cfPZ8FM8VSmnB6e5dkGNHk_0M&security=reality&sid=a9ff&sni=www.yandex.ru&type=tcp#🇩🇪 Germany
 vless://3c5ca504-1ef8-43d5-ada6-e290f39722f2@69.84.182.48:443?encryption=none&type=ws&security=tls&sni=jffjjhgfhh.yallda.com&alpn=h2%2Chttp%2F1.1&fp=chrome#🇩🇪 Germany
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@de.sbrf-cdn342.ru:443?security=tls&encryption=none&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#🇩🇪 Germany
-vless://5e8c894b-1efa-48d4-85ee-9daf5d574c16@216.24.57.6:2096?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&serviceName=irannewsdaily.com.hamshahrionline.ir.irdiplomacy.ir.irandaily.ir.alef.ir.rajanews.com.irannewsdaily.com&sni=bad-AppLicatIon22nBd8j5OK.CArBoNbLaCkBmw.Ir#🇩🇪 Germany
+vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@fx1011.game2lizard.com:2083?security=tls&encryption=none&fp=360&allow&type=ws&sni=mzaxmc.lizardshop.org#🇩🇪 Germany
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@5.83.129.113:443?security=tls&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&type=tcp&fp=chrome#🇩🇪 Germany CIDR
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@5.83.129.113:443?type=tcp&headerType=none&security=tls&encryption=none&sni=sub.sbrf-cdn342.ru&fp=chrome&flow=xtls-rprx-vision#🇩🇪 Germany CIDR
-vless://79d6a159-67c8-4164-9534-89f103c81aaf@bez2.stream-room.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=bez2.stream-room.com&fp=chrome&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326&flow=xtls-rprx-vision#🇪🇪 Estonia
+vless://e7902151-e2e1-4d29-a84b-86f0d5d91b65@berocd.herumhas.shop:9443?type=tcp&security=tls&encryption=none&fp=chrome&sni=berocd.herumhas.shop&flow=xtls-rprx-vision#🇩🇪 Germany CIDR
 vless://abef4e1f-5010-41d3-9561-e5d1e0f8ac7f@s1.cloudflare.ips-list.vhub.pro:443?sni=cloudflare.vhub.pro&alpn=http/1.1&type=ws&security=tls#🇪🇪 Estonia CIDR
-vless://f00984ef-f57e-41db-9182-b25f7bc3a1e2@2.27.13.15:443?flow=xtls-rprx-vision&fp=chrome&pbk=dZr14WsJ6yNqfoalMrTWBsOU74mckVoQO84Ty68TtW4&security=reality&sid=b03a4d1767157467&sni=newfn.stardevs.top&spx=%2F&type=tcp#🇫🇮 Finland
-vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@217.163.76.118:2083?encryption=none&security=tls&sni=fl0.lizardshop.org&fp=360&type=ws#🇫🇮 Finland
-vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@217.163.76.118:2083?encryption=none&type=ws&security=tls&sni=fl0.lizardshop.org&fp=360#🇫🇮 Finland
-vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@217.163.76.118:2083?encryption=none&type=ws&security=tls&sni=fl0.lizardshop.org&fp=360#🇫🇮 Finland
 vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@217.163.76.118:2083?security=tls&encryption=none&fp=360&type=ws&sni=fl0.lizardshop.org#🇫🇮 Finland
-vless://a2b81a67-3cd2-42c7-a3f9-fd47ac27d4a1@95.182.97.249:443?security=&encryption=none&type=ws#🇫🇷 France
-vless://InternetAzadRobot@fastly.com:80?encryption=none&security=none&type=xhttp&mode=auto&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}#🇫🇷 France
-vless://a2b81a67-3cd2-42c7-a3f9-fd47ac27d4a1@95.182.97.249:443?type=ws&encryption=none&security=none#🇫🇷 France
-vless://a2b81a67-3cd2-42c7-a3f9-fd47ac27d4a1@95.182.97.249:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&encryption=none&security=none#🇫🇷 France
-vless://a2b81a67-3cd2-42c7-a3f9-fd47ac27d4a1@95.182.97.249:443?encryption=none&type=ws&security=none#🇫🇷 France
 vless://InternetAzadRobot@fastly.com:80?encryption=none&security=none&type=xhttp&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#🇫🇷 France
-vless://a2b81a67-3cd2-42c7-a3f9-fd47ac27d4a1@95.182.97.249:443?encryption=none&security=none&type=ws#🇫🇷 France
-vless://a2b81a67-3cd2-42c7-a3f9-fd47ac27d4a1@95.182.97.249:443?security=&encryption=none&type=ws#🇫🇷 France
-vless://e258977b-e413-4718-a3af-02d75492c349@81.255.155.10:443?encryption=none&security=tls&sni=jp.aniua.qzz.io&type=ws#🇫🇷 France
-vless://9204afcd-026e-781f-1abc-c03efabd1344@zzhk6.ainivp.com:13413?encryption=none&sni=www.microsoft.com&security=reality&pbk=epgveXEcUs0sbs4jV_1KldTkZGnWUHfMKcs0XNyP41Y&sid=a1b2c3d4&flow=xtls-rprx-vision&fp=chrome&udp=1#🇭🇰 Hong Kong
-vless://InternetAzadRobot@fastly.com:80?encryption=none&security=none&type=xhttp&mode=auto&extra={"xPaddingBytes":"100-1000"}#🇮🇹 Italy
+vless://InternetAzadRobot@fastly.com:80?encryption=none&security=none&type=xhttp&mode=auto&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}#🇫🇷 France
+vless://9cbd238d-6a56-419a-bdc5-101fdab421ad@fra.gorhub.ru:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=4S6qXLdepEjgOeFBIbZmC-4ChOqGgM9l4vEedKw8rVk&sni=stackoverflow.com&sid=be0ce047#🇬🇧 United Kingdom
+vless://9cbd238d-6a56-419a-bdc5-101fdab421ad@fra.gorhub.ru:443?security=reality&encryption=none&pbk=4S6qXLdepEjgOeFBIbZmC-4ChOqGgM9l4vEedKw8rVk&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=be0ce047#🇬🇧 United Kingdom
 vless://InternetAzadRobot@fastly.com:80?mode=auto&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#🇮🇹 Italy
 vless://a5c689ce-ef93-4a6a-8b74-3dbe2287d71b@142.91.109.84:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cloudrynth.com&fp=firefox&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y#🇯🇵 Japan
-vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?encryption=none&type=ws&security=tls&sni=jp.aniua.qzz.io&fp=chrome#🇯🇵 Japan
-vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?encryption=none&type=ws&security=tls&sni=jp.aniua.qzz.io#🇯🇵 Japan
-vless://e258977b-e413-4718-a3af-02d75492c349@81.255.155.10:443?security=tls&sni=jp.aniua.qzz.io&type=ws#🇯🇵 Japan
-vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?security=tls&encryption=none&ech=ip.gs+udp://8.8.8.8&type=ws&sni=jp.aniua.qzz.io#🇯🇵 Japan
-vless://e258977b-e413-4718-a3af-02d75492c349@216.24.57.6:443?security=tls&encryption=none&echfq=none&allow&type=ws&sni=jp.aniua.qzz.io#🇯🇵 Japan
+vless://e258977b-e413-4718-a3af-02d75492c349@81.255.155.10:443?encryption=none&security=tls&sni=jp.aniua.qzz.io&type=ws#🇯🇵 Japan
+vless://e258977b-e413-4718-a3af-02d75492c349@81.255.155.10-3s88hsau.nike77prime.ru:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=ws&security=tls&sni=jp.aniua.qzz.io#🇯🇵 Japan
 vless://e258977b-e413-4718-a3af-02d75492c349@216.24.57.6:443?security=tls&encryption=none&type=ws&sni=jp.aniua.qzz.io#🇯🇵 Japan
+vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?security=tls&encryption=none&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&sni=jp.aniua.qzz.io#🇯🇵 Japan
+vless://e258977b-e413-4718-a3af-02d75492c349@216.24.57.7:443?security=tls&encryption=none&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&sni=jp.aniua.qzz.io#🇯🇵 Japan
+vless://e258977b-e413-4718-a3af-02d75492c349@81.255.155.10:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=ws&security=tls&sni=jp.aniua.qzz.io#🇯🇵 Japan
+vless://e258977b-e413-4718-a3af-02d75492c349@81.255.155.10:443?encryption=none&security=tls&sni=jp.aniua.qzz.io&type=ws#🇯🇵 Japan
+vless://e258977b-e413-4718-a3af-02d75492c349@81.255.155.10:443?security=tls&sni=jp.aniua.qzz.io&type=ws#🇯🇵 Japan
+vless://e258977b-e413-4718-a3af-02d75492c349@81.255.154.10:443?encryption=none&type=ws&security=tls&sni=jp.aniua.qzz.io#🇯🇵 Japan
 vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?security=tls&encryption=none&type=ws&sni=jp.aniua.qzz.io#🇯🇵 Japan
-vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?security=tls&encryption=none&ech=ip.gs%2Budp%3A%2F.%2F8.8.8.8&type=ws&sni=jp.aniua.qzz.io#🇯🇵 Japan
-vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?security=tls&encryption=none&type=ws&sni=jp.aniua.qzz.io&fp=#🇯🇵 Japan
-vless://e258977b-e413-4718-a3af-02d75492c349@81.255.154.10:443?security=tls&encryption=none&ech=ip.gs+udp://8.8.8.8&type=ws&sni=jp.aniua.qzz.io#🇯🇵 Japan
-vless://e258977b-e413-4718-a3af-02d75492c349@216.24.57.7:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&encryption=none&ech=ip.gs+udp://8.8.8.8&type=ws&sni=jp.aniua.qzz.io#🇯🇵 Japan
-vless://e258977b-e413-4718-a3af-02d75492c349@81.255.154.10:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&encryption=none&ech=ip.gs+udp://8.8.8.8&type=ws&sni=jp.aniua.qzz.io#🇯🇵 Japan
-vless://e258977b-e413-4718-a3af-02d75492c349@216.24.57.6:443/?type=ws&encryption=none&flow=&security=tls&sni=jp.aniua.qzz.io#🇯🇵 Japan
-vless://e258977b-e413-4718-a3af-02d75492c349@216.24.57.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&encryption=none&type=ws&sni=jp.aniua.qzz.io#🇯🇵 Japan
-vless://e258977b-e413-4718-a3af-02d75492c349@216.24.57.6:443?security=tls&encryption=none&ech=ip.gs+udp://8.8.8.8&type=ws&sni=jp.aniua.qzz.io#🇯🇵 Japan
 vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?security=tls&encryption=none&ech=ip.gs+udp:/./8.8.8.8&type=ws&sni=jp.aniua.qzz.io#🇯🇵 Japan
-vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?security=tls&encryption=none&type=ws&sni=jp.aniua.qzz.io#🇯🇵 Japan
-vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?security=tls&encryption=none&type=ws&sni=jp.aniua.qzz.io&fp=chrome#🇯🇵 Japan
-vless://e258977b-e413-4718-a3af-02d75492c349@216.24.57.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=ws&security=tls&sni=jp.aniua.qzz.io#🇯🇵 Japan CIDR
-vless://e258977b-e413-4718-a3af-02d75492c349@216.24.57.7:443?security=tls&type=ws&sni=jp.aniua.qzz.io&fp=chrome&encryption=none#🇯🇵 Japan CIDR
-vless://58f2d0b3-71c1-4b25-a723-155ec1e13725@srv143.towersflowerss.com:443?security=&encryption=none&type=ws#🇰🇿 Kazakhstan
-vless://58f2d0b3-71c1-4b25-a723-155ec1e13725@srv143.towersflowerss.com:443?security=&encryption=none&type=ws#🇰🇿 Kazakhstan
-vless://a5c689ce-ef93-0064-8b74-3dbe2287d71b@51.250.35.185:443?encryption=none&type=tcp&security=reality&fp=firefox&sni=max.ru&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y#🇱🇻 Latvia CIDR
-vless://4c60729d-7473-4f00-9bff-ea30942f0003@51.250.104.246:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇳🇱 Netherlands
-vless://4c60729d-7473-4f00-9bff-ea30942f0003@51.250.97.18:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇳🇱 Netherlands
-vless://327bf8a4-52ec-4fc1-afab-fc37ecec8be9@150.241.94.160:33199?type=tcp&security=reality&fp=chrome&pbk=0paB9-U-QzEBoSQiOP161BPvc2PhWrfQ_5nbfk2AezM&sid=a9766c&sni=web.max.ru&spx=/&pqv=...#🇳🇱 Netherlands
-vless://f998c699-43b5-4af2-921e-03b879eb7912@nld.pink-service.ru:443?type=tcp&security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&fp=qq&sni=www.google.com&sid=86b80f1e713a33ad&flow=xtls-rprx-vision#🇳🇱 Netherlands
-vless://4c60729d-7473-4f00-9bff-ea30942f0003@51.250.24.232:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇳🇱 Netherlands CIDR
-vless://4c60729d-7473-4f00-9bff-ea30942f0003@51.250.108.162:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇳🇱 Netherlands CIDR
-vless://4c60729d-7473-4f00-9bff-ea30942f0003@158.160.130.173:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇳🇱 Netherlands CIDR
-vless://4c60729d-7473-4f00-9bff-ea30942f0003@51.250.106.87:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇳🇱 Netherlands CIDR
-vless://4c60729d-7473-4f00-9bff-ea30942f0003@51.250.102.69:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇳🇱 Netherlands CIDR
-vless://4c60729d-7473-4f00-9bff-ea30942f0003@51.250.17.80:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇳🇱 Netherlands CIDR
-vless://4c60729d-7473-4f00-9bff-ea30942f0003@84.201.136.5:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇳🇱 Netherlands CIDR
-vless://4c60729d-7473-4f00-9bff-ea30942f0003@51.250.24.222:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇳🇱 Netherlands CIDR
-vless://4c60729d-7473-4f00-9bff-ea30942f0003@84.201.168.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇳🇱 Netherlands CIDR
-vless://a5c689ce-ef93-0190-8b74-3dbe2287d71b@185.247.185.238:443?encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y#🇳🇴 Norway CIDR
-vless://1f01e53a-f9d1-48a3-8b35-6f10b9be0736@185.255.95.247:27265?security=&encryption=none&type=ws#🇹🇷 Türkiye CIDR
-vless://1f01e53a-f9d1-48a3-8b35-6f10b9be0736@185.255.95.247:27265?encryption=none&type=ws&security=none#🇹🇷 Türkiye CIDR
+vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?security=tls&encryption=none&ech=ip.gs udp://8.8.8.8&type=ws&sni=jp.aniua.qzz.io#🇯🇵 Japan
+vless://e258977b-e413-4718-a3af-02d75492c349@216.24.57.6:443?security=tls&encryption=none&type=ws&sni=jp.aniua.qzz.io&fp=chrome#🇯🇵 Japan CIDR
+vless://e258977b-e413-4718-a3af-02d75492c349@216.24.57.7:443?security=tls&encryption=none&ech=ip.gs+udp://8.8.8.8&type=ws&sni=jp.aniua.qzz.io#🇯🇵 Japan CIDR
+vless://a5c689ce-ef93-4a6a-8b74-3dbe2287d71b@185.81.128.86:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cloudrynth.com&fp=firefox&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y#🇱🇻 Latvia
+vless://423c1478-51ef-4762-8908-eb8b23ee8ff4@151.236.114.245:6443?flow=&fp=qq&pbk=wfQg9xng5NedWJBv6hwvCkRqsafJnRuhCZWHgko6yUs&security=reality&sid=3142c760d3c88811&sni=max.ru&type=tcp#🇱🇻 Latvia CIDR
+vless://81921570-c613-46fd-a788-fc314bde7b26@51.250.103.104:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇳🇱 Netherlands
+vless://81921570-c613-46fd-a788-fc314bde7b26@51.250.97.18:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇳🇱 Netherlands
+vless://81921570-c613-46fd-a788-fc314bde7b26@158.160.130.173:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇳🇱 Netherlands CIDR
+vless://81921570-c613-46fd-a788-fc314bde7b26@51.250.24.222:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇳🇱 Netherlands CIDR
+vless://81921570-c613-46fd-a788-fc314bde7b26@84.201.144.113:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇳🇱 Netherlands CIDR
+vless://81921570-c613-46fd-a788-fc314bde7b26@158.160.136.203:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇳🇱 Netherlands CIDR
+vless://81921570-c613-46fd-a788-fc314bde7b26@51.250.106.87:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇳🇱 Netherlands CIDR
+vless://81921570-c613-46fd-a788-fc314bde7b26@51.250.102.69:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇳🇱 Netherlands CIDR
+vless://81921570-c613-46fd-a788-fc314bde7b26@84.201.168.186:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇳🇱 Netherlands CIDR
+vless://81921570-c613-46fd-a788-fc314bde7b26@51.250.24.232:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇳🇱 Netherlands CIDR
+vless://73a7a937-ad24-4b68-a64f-d9d3611e2fdc@144.31.24.49:8443?encryption=none&type=grpc&serviceName=xyz&mode=gun&security=reality&sni=ads.x5.ru&fp=qq&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE&sid=6ba85179e30d4fc2#🇳🇱 Netherlands CIDR
+vless://ab7ededa-a2cd-4381-8ea6-d39d2f91dcf6@germany1.banovano.space:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.yandex.ru&fp=chrome&pbk=rUCPHLqnPkePldNW05cfPZ8FM8VSmnB6e5dkGNHk_0M&sid=a9ff&flow=xtls-rprx-vision#🇵🇱 Poland
+vless://ab7ededa-a2cd-4381-8ea6-d39d2f91dcf6@191.44.112.22:443?flow=xtls-rprx-vision&fp=chrome&pbk=rUCPHLqnPkePldNW05cfPZ8FM8VSmnB6e5dkGNHk_0M&security=reality&sid=a9ff&sni=www.yandex.ru&type=tcp#🇵🇱 Poland
+vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?security=tls&encryption=none&ech=ip.gs+udp://8.8.8.8&type=ws&sni=jp.aniua.qzz.io#🇸🇬 Singapore
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:22231?encryption=none&type=tcp&security=tls&headerType=none&sni=r1.mizulina.top&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&flow=xtls-rprx-vision-udp443#🇺🇸 United States
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:22231?type=tcp&encryption=none&headerType=none&quicSecurity=none&serviceName=&security=tls&flow=xtls-rprx-vision-udp443&fp=chrome&sni=r1.mizulina.top#🇺🇸 United States
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:22231?type=tcp&headerType=none&security=tls&encryption=none&sni=r1.mizulina.top&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&flow=xtls-rprx-vision-udp443#🇺🇸 United States
-vless://e3c68e9e-5bf3-4e4b-abac-806053baa43a@77.110.124.100:80?security=none&type=tcp#🇺🇸 United States
-vless://rootface@216.234.141.24:443?type=tcp&security=reality&sni=blog.api.www.cloudflare.com&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&flow=&fp=chrome#🇺🇸 United States
-vless://a5c689ce-ef93-4a6a-8b74-3dbe2287d71b@162.210.197.238:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cloudrynth.com&fp=firefox&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y#🇺🇸 United States
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.223:22231?encryption=none&type=tcp&security=tls&headerType=none&sni=r1.mizulina.top&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&flow=xtls-rprx-vision-udp443#🇺🇸 United States
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.254:22231?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top&type=tcp#🇺🇸 United States
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:22231?encryption=none&type=tcp&security=tls&headerType=none&sni=r1.mizulina.top&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&flow=xtls-rprx-vision-udp443#🇺🇸 United States
-vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@166.88.186.161:666?security=tls&encryption=none&fp=chrome&type=ws&sni=166.88.186.161#🇺🇸 United States
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.254:22231?encryption=none&type=tcp&security=tls&headerType=none&sni=r1.mizulina.top&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&flow=xtls-rprx-vision-udp443#🇺🇸 United States
+vless://a5c689ce-ef93-4a6a-8b74-3dbe2287d71b@162.210.197.238:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cloudrynth.com&fp=firefox&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y#🇺🇸 United States
+vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?security=tls&encryption=none&type=ws&sni=jp.aniua.qzz.io#🇺🇸 United States
+vless://e258977b-e413-4718-a3af-02d75492c349@216.24.57.6:443?security=tls&encryption=none&type=ws&sni=jp.aniua.qzz.io#🇺🇸 United States
+vless://e258977b-e413-4718-a3af-02d75492c349@81.255.154.10:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&encryption=none&ech=ip.gs+udp://8.8.8.8&type=ws&sni=jp.aniua.qzz.io#🇺🇸 United States
+vless://e258977b-e413-4718-a3af-02d75492c349@216.24.57.6:443/?type=ws&encryption=none&flow=&security=tls&sni=jp.aniua.qzz.io#🇺🇸 United States
+vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?encryption=none&type=ws&security=tls&sni=jp.aniua.qzz.io&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#🇺🇸 United States
+vless://9204afcd-026e-781f-1abc-c03efabd1344@mg1.ainivp.com:443?encryption=none&sni=www.microsoft.com&security=reality&pbk=epgveXEcUs0sbs4jV_1KldTkZGnWUHfMKcs0XNyP41Y&sid=a1b2c3d4&flow=xtls-rprx-vision&fp=chrome&udp=1#🇺🇸 United States
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:22231?encryption=none&type=tcp&security=tls&headerType=none&sni=r1.mizulina.top&alpn=h3,h2,http/1.1&fp=chrome&flow=xtls-rprx-vision-udp443#🇺🇸 United States
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:22231?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision-udp443&sni=r1.mizulina.top#🇺🇸 United States
-vless://a5c689ce-ef93-4a6a-8b74-3dbe2287d71b@94.228.112.55:443?type=tcp&headerType=none&security=reality&encryption=none&sni=max.ru&fp=firefox&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y#🇷🇺 Russia
-vless://81bc17b1-f73d-419c-a50b-9e2a4d255dfb@5.188.114.12:8443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kYBv0pzwgjZYoymSlSGPFxgoLgs92uXYUGZfZ2wwnnI&sid=dc93f297474b860f#🇷🇺 Russia CIDR
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:22231?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision-udp443&sni=r1.mizulina.top#🇺🇸 United States
+vless://e3c68e9e-5bf3-4e4b-abac-806053baa43a@77.110.124.100:80?security=none&type=tcp#🇺🇸 United States
+vless://a5c689ce-ef93-4a6a-8b74-3dbe2287d71b@94.228.112.55:443?encryption=none&type=tcp&security=reality&fp=firefox&sni=max.ru&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y#🇷🇺 Russia
+vless://a5c689ce-ef93-4a6a-8b74-3dbe2287d71b@94.228.112.55:443?type=tcp&headerType=none&security=reality&encryption=none&sni=max.ru&fp=firefox&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y#🇷🇺 Russia CIDR

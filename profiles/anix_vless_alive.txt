@@ -4,31 +4,20 @@
 #announce: TG: @AkitaUS
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vless://49882640-5877-4f73-a49e-86e209d080a9@d28224e6de4fbedf.fly.iranray.online:80?mode=auto&security=none&encryption=none&type=xhttp#🇨🇭 Switzerland
-vless://6df80c02-2f09-45aa-adbd-f6566a8010f7@81.255.155.10:443?security=tls&alpn=http/1.1&encryption=none&fp=chrome&type=ws&sni=a1.shahinir.store#🇩🇪 Germany
-vless://0dc3fe97-73e3-4cc2-89a7-331e66540365@cdn-a9027cc2.glomedia-cdn.com:2053?type=grpc&headerType=none&security=reality&encryption=none&sni=www.apple.com&fp=chrome&pbk=sOTlswV3fg3MBJSiQek_a2fMs824tGNRFNRdQVYu1R8&sid=ef96a8323b38a60e&serviceName=grpc#🇩🇪 Germany
-vless://afc941a0-b6b4-42d1-b284-d59a42f083fd@194.58.41.65:443?type=grpc&security=reality&fp=chrome&pbk=cjCwI7alv-GUgef0TW7i-S7jNgnIoZ6aooGYH7Nopxs&sid=deadbeef&sni=www.microsoft.com&serviceName=GrpcFuckRKN#🇩🇪 Germany
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@de.sbrf-cdn342.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1&flow=xtls-rprx-vision#🇩🇪 Germany
 vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@fi2.vitok.cc:443?type=tcp&headerType=none&security=reality&encryption=none&sni=yastatic.net&fp=chrome&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&sid=5e841fab#🇩🇪 Germany
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@5.83.129.113:443?security=tls&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&type=tcp&fp=chrome#🇩🇪 Germany
-vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@63.141.128.5:2083?encryption=none&type=ws&security=tls&fp=chrome&sni=mzaxmc.lizardshop.org#🇩🇪 Germany
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@de.sbrf-cdn342.ru:443?security=tls&encryption=none&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#🇩🇪 Germany
-vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#🇫🇷 France
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@de.sbrf-cdn342.ru:443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#🇪🇺 EU
+vless://f00984ef-f57e-41db-9182-b25f7bc3a1e2@2.27.13.15:443?flow=xtls-rprx-vision&fp=chrome&pbk=dZr14WsJ6yNqfoalMrTWBsOU74mckVoQO84Ty68TtW4&security=reality&sid=b03a4d1767157467&sni=newfn.stardevs.top&spx=%2F&type=tcp#🇫🇮 Finland
 vless://abb8ca6f-a049-4c6d-9780-70624c476a0d@85.198.85.193:49423?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=www.sony.com&pbk=g2iGrP41UeFpnaFa_NtNSV89i4QoYWKXaJwgvgg_31k&sid=e6bb2b5c0ab6fd47#🇫🇷 France
-vless://b9ad35dd-aef6-4f59-b6db-026260e76e49@h1.netblockss.ir:50653/?type=tcp&encryption=none&security=reality&pbk=c_lVqMhoHP47uPNJUJ0LPt1Th4FnDZRmP3DZj7KXdj0&fp=chrome&sni=www.icloud.com&sid=60&spx=%2F#🇬🇧 United Kingdom
+vless://InternetAzadRobot@fastly.com:80?encryption=none&security=none&type=xhttp&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#🇫🇷 France
+vless://InternetAzadRobot@fastly.com:80?mode=auto&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#🇫🇷 France
+vless://InternetAzadRobot@fastly.com:80?mode=auto&security=none&encryption=none&type=xhttp#🇮🇹 Italy
+vless://InternetAzadRobot@fastly.com:80?encryption=none&security=none&type=xhttp&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#🇮🇹 Italy
 vless://InternetAzadRobot@fastly.com:80?mode=auto&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&type=xhttp#🇮🇹 Italy
 vless://InternetAzadRobot@fastly.com:80?encryption=none&security=none&type=xhttp&mode=auto&extra={"xPaddingBytes":"100-1000"}#🇮🇹 Italy
-vless://InternetAzadRobot@fastly.com:80?mode=auto&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#🇮🇹 Italy
 vless://InternetAzadRobot@fastly.com:80?mode=auto&security=none&encryption=none&type=xhttp#🇮🇹 Italy
-vless://eb3fe4a6-831c-5153-9493-5d97b28276f7@51.250.106.197:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=gLwECcibrJ-wErHzfYbPzMDVu6960VNuXUhjOQ3rUQk#🇳🇱 Netherlands CIDR
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:22231?encryption=none&type=tcp&security=tls&headerType=none&sni=r1.mizulina.top&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&flow=xtls-rprx-vision-udp443#🇺🇸 United States
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:22231?flow=xtls-rprx-vision-udp443&fp=chrome&headertype=none&quicsecurity=none&security=tls&servicename=&sni=r1.mizulina.top&type=tcp#🇺🇸 United States
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:22231?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=r1.mizulina.top#🇺🇸 United States
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:22231?type=tcp&encryption=none&headerType=none&quicSecurity=none&serviceName=&security=tls&flow=xtls-rprx-vision-udp443&fp=chrome&sni=r1.mizulina.top#🇺🇸 United States
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:22231?type=tcp&headerType=none&security=tls&encryption=none&sni=r1.mizulina.top&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&flow=xtls-rprx-vision-udp443#🇺🇸 United States
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.223:22231?encryption=none&type=tcp&security=tls&headerType=none&sni=r1.mizulina.top&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&flow=xtls-rprx-vision-udp443#🇺🇸 United States
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.254:22231?encryption=none&type=tcp&security=tls&headerType=none&sni=r1.mizulina.top&alpn=h3%2Ch2%2Chttp/1.1&fp=chrome&flow=xtls-rprx-vision-udp443#🇺🇸 United States
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.254:22231?type=tcp&headerType=none&security=tls&encryption=none&sni=r1.mizulina.top&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&flow=xtls-rprx-vision-udp443#🇺🇸 United States
+vless://ab7ededa-a2cd-4381-8ea6-d39d2f91dcf6@germany1.banovano.space:443?security=reality&encryption=none&pbk=rUCPHLqnPkePldNW05cfPZ8FM8VSmnB6e5dkGNHk_0M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru&sid=a9ff#🇵🇱 Poland
+vless://d8a5d149-4e4f-4fbd-b6b1-7d6b59c9e9ba@cdn-msk-1.bigbossvpn.online:8443?security=reality&encryption=none&pbk=7d3CStrxBsfQQIx0_Td6qdJnks4n0JZr_DjzCkD-iwE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=4bdc542eb368ab6a#🇸🇪 Sweden
 vless://e3c68e9e-5bf3-4e4b-abac-806053baa43a@77.110.124.100:80?security=none&type=tcp#🇺🇸 United States
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:22231?encryption=none&type=tcp&security=tls&headerType=none&sni=r1.mizulina.top&alpn=h3,h2,http/1.1&fp=chrome&flow=xtls-rprx-vision-udp443#🇺🇸 United States
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:22231?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision-udp443&sni=r1.mizulina.top#🇺🇸 United States
-vless://b43c896e-d9b8-4606-b902-b1bf6d10d2f9@85.198.85.193:40470?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#🇷🇺 Russia
+vless://1f678d60-48d7-4eb0-9f85-35ed154d1cd5@chus.nodes.rocketnetwork.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=cyberdrift.ru&fp=chrome&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&sid=428ef87fd47a3a32#🇺🇸 United States
+vless://10132cf6-6536-4c45-8d75-c90f91a1c5d6@37.139.34.63:5969?mode=stream-up&security=reality&encryption=none&extra={"xPaddingBytes": "100-1000", "noGRPCHeader": false, "keepAlivePeriod": 25}&pbk=lPTd0_SulMMhWfRHF4tjsv5iM06hU1bDJv8aPaBipEw&fp=chrome&type=xhttp&sni=surfvpn24.ru&sid=c19de8fa#🇷🇺 Russia CIDR

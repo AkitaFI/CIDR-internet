@@ -2,18 +2,22 @@
 #profile-update-interval: 3
 #support-url: https://t.me/akita_bio
 #announce: TG: @AkitaUS
-#subscription-userinfo: upload=861875; download=861875; total=1723750; expire=0
+#subscription-userinfo: upload=882178; download=882178; total=1764356; expire=0
 
-vless://6df80c02-2f09-45aa-adbd-f6566a8010f7@81.255.155.10:443?security=tls&alpn=http/1.1&encryption=none&fp=chrome&type=ws&sni=a1.shahinir.store#🇩🇪 Germany
-vless://e7902151-e2e1-4d29-a84b-86f0d5d91b65@berocd.herumhas.shop:9443?type=tcp&security=tls&encryption=none&fp=chrome&sni=berocd.herumhas.shop&flow=xtls-rprx-vision#🇩🇪 Germany CIDR
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@de.sbrf-cdn342.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1&flow=xtls-rprx-vision#🇩🇪 Germany
+vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@fi2.vitok.cc:443?type=tcp&headerType=none&security=reality&encryption=none&sni=yastatic.net&fp=chrome&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&sid=5e841fab#🇩🇪 Germany
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@de.sbrf-cdn342.ru:443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#🇪🇺 EU
+vless://f00984ef-f57e-41db-9182-b25f7bc3a1e2@2.27.13.15:443?flow=xtls-rprx-vision&fp=chrome&pbk=dZr14WsJ6yNqfoalMrTWBsOU74mckVoQO84Ty68TtW4&security=reality&sid=b03a4d1767157467&sni=newfn.stardevs.top&spx=%2F&type=tcp#🇫🇮 Finland
+vless://abb8ca6f-a049-4c6d-9780-70624c476a0d@85.198.85.193:49423?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=www.sony.com&pbk=g2iGrP41UeFpnaFa_NtNSV89i4QoYWKXaJwgvgg_31k&sid=e6bb2b5c0ab6fd47#🇫🇷 France
 vless://InternetAzadRobot@fastly.com:80?encryption=none&security=none&type=xhttp&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#🇫🇷 France
-vless://InternetAzadRobot@fastly.com:80?encryption=none&security=none&type=xhttp&mode=auto&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}#🇫🇷 France
 vless://InternetAzadRobot@fastly.com:80?mode=auto&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#🇫🇷 France
-vless://InternetAzadRobot@fastly.com:80?encryption=none&security=none&type=xhttp&mode=auto&extra={"xPaddingBytes":"100-1000"}#🇮🇹 Italy
-vless://InternetAzadRobot@fastly.com:80?mode=auto&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#🇮🇹 Italy
 vless://InternetAzadRobot@fastly.com:80?mode=auto&security=none&encryption=none&type=xhttp#🇮🇹 Italy
-vless://0e38ace5-e9ba-4e93-990a-68d2d3269a52@51.250.103.104:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇳🇱 Netherlands
-vless://0e38ace5-e9ba-4e93-990a-68d2d3269a52@51.250.106.87:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇳🇱 Netherlands CIDR
-vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@151.242.191.161:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.samsung.com&fp=chrome&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&sid=a1b2c3d4#🇷🇴 Romania
+vless://InternetAzadRobot@fastly.com:80?encryption=none&security=none&type=xhttp&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#🇮🇹 Italy
+vless://InternetAzadRobot@fastly.com:80?mode=auto&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&type=xhttp#🇮🇹 Italy
+vless://InternetAzadRobot@fastly.com:80?encryption=none&security=none&type=xhttp&mode=auto&extra={"xPaddingBytes":"100-1000"}#🇮🇹 Italy
+vless://InternetAzadRobot@fastly.com:80?mode=auto&security=none&encryption=none&type=xhttp#🇮🇹 Italy
+vless://ab7ededa-a2cd-4381-8ea6-d39d2f91dcf6@germany1.banovano.space:443?security=reality&encryption=none&pbk=rUCPHLqnPkePldNW05cfPZ8FM8VSmnB6e5dkGNHk_0M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru&sid=a9ff#🇵🇱 Poland
+vless://d8a5d149-4e4f-4fbd-b6b1-7d6b59c9e9ba@cdn-msk-1.bigbossvpn.online:8443?security=reality&encryption=none&pbk=7d3CStrxBsfQQIx0_Td6qdJnks4n0JZr_DjzCkD-iwE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=4bdc542eb368ab6a#🇸🇪 Sweden
 vless://e3c68e9e-5bf3-4e4b-abac-806053baa43a@77.110.124.100:80?security=none&type=tcp#🇺🇸 United States
-vless://0c8a9f50-51b3-43b5-b1fb-09fc3131a800@gwapp-ru01.freenets.store:443?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=gwapp-ru01.freenets.store&type=tcp#🇷🇺 Russia
+vless://1f678d60-48d7-4eb0-9f85-35ed154d1cd5@chus.nodes.rocketnetwork.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=cyberdrift.ru&fp=chrome&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&sid=428ef87fd47a3a32#🇺🇸 United States
+vless://10132cf6-6536-4c45-8d75-c90f91a1c5d6@37.139.34.63:5969?mode=stream-up&security=reality&encryption=none&extra={"xPaddingBytes": "100-1000", "noGRPCHeader": false, "keepAlivePeriod": 25}&pbk=lPTd0_SulMMhWfRHF4tjsv5iM06hU1bDJv8aPaBipEw&fp=chrome&type=xhttp&sni=surfvpn24.ru&sid=c19de8fa#🇷🇺 Russia CIDR

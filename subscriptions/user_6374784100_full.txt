@@ -2,7 +2,7 @@
 #profile-update-interval: 3
 #support-url: https://t.me/akita_bio
 #announce: TG: @AkitaUS
-#subscription-userinfo: upload=700906; download=700906; total=1401812; expire=0
+#subscription-userinfo: upload=710729; download=710729; total=1421458; expire=0
 
 vless://6df80c02-2f09-45aa-adbd-f6566a8010f7@81.255.155.10:443?security=tls&alpn=http/1.1&encryption=none&fp=chrome&type=ws&sni=a1.shahinir.store#🇩🇪 Germany
 vless://e7902151-e2e1-4d29-a84b-86f0d5d91b65@berocd.herumhas.shop:9443?type=tcp&security=tls&encryption=none&fp=chrome&sni=berocd.herumhas.shop&flow=xtls-rprx-vision#🇩🇪 Germany CIDR

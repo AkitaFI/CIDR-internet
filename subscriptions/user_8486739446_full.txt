@@ -2,19 +2,18 @@
 #profile-update-interval: 3
 #support-url: https://t.me/akita_bio
 #announce: TG: @AkitaUS
-#subscription-userinfo: upload=727861; download=727861; total=1455722; expire=0
+#subscription-userinfo: upload=740943; download=740943; total=1481886; expire=0
 
-vless://49882640-5877-4f73-a49e-86e209d080a9@d28224e6de4fbedf.fly.iranray.online:80?mode=auto&security=none&encryption=none&type=xhttp#🇨🇭 Switzerland
-vless://Telegram-Parsashonam-3@165.215.250.12:443?encryption=none&type=xhttp&security=tls&mode=auto&sni=p4r34m.hendevaneh.sbs&alpn=h2%2Chttp%2F1.1&fp=chrome#🇩🇪 Germany
 vless://6df80c02-2f09-45aa-adbd-f6566a8010f7@81.255.155.10:443?security=tls&alpn=http/1.1&encryption=none&fp=chrome&type=ws&sni=a1.shahinir.store#🇩🇪 Germany
-vless://Telegram-Parsashonam-3@216.24.57.6:443?mode=auto&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=xhttp&sni=p4r34m.hendevaneh.sbs#🇩🇪 Germany
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@de.sbrf-cdn342.ru:443?security=tls&encryption=none&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#🇩🇪 Germany
+vless://e7902151-e2e1-4d29-a84b-86f0d5d91b65@berocd.herumhas.shop:9443?type=tcp&security=tls&encryption=none&fp=chrome&sni=berocd.herumhas.shop&flow=xtls-rprx-vision#🇩🇪 Germany CIDR
 vless://InternetAzadRobot@fastly.com:80?encryption=none&security=none&type=xhttp&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#🇫🇷 France
+vless://InternetAzadRobot@fastly.com:80?encryption=none&security=none&type=xhttp&mode=auto&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}#🇫🇷 France
 vless://InternetAzadRobot@fastly.com:80?mode=auto&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#🇫🇷 France
-vless://4b616b6f-6f6c-4e65-7773-b8e2c9f3d541@20.103.221.187:443?encryption=none&security=tls&sni=effective-space-pancake-xr59w9969xrvf6jq5-443.app.github.dev&type=ws#🇬🇧 United Kingdom
-vless://InternetAzadRobot@fastly.com:80?mode=auto&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&type=xhttp#🇮🇹 Italy
+vless://InternetAzadRobot@fastly.com:80?encryption=none&security=none&type=xhttp&mode=auto&extra={"xPaddingBytes":"100-1000"}#🇮🇹 Italy
+vless://InternetAzadRobot@fastly.com:80?mode=auto&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#🇮🇹 Italy
 vless://InternetAzadRobot@fastly.com:80?mode=auto&security=none&encryption=none&type=xhttp#🇮🇹 Italy
-vless://202ea12c-8e08-49f3-bc23-dad8c944cba4@ru.pool-b.vodkacore.pro:44001?type=tcp&headerType=none&security=reality&encryption=none&sni=netcenter-cdn.com&fp=qq&pbk=qXyJbGAN_0PyZFVR7vb7anVdCK2Zhxexs7dVgc3vqn0&sid=59a551a27a5923&spx=%2F&flow=xtls-rprx-vision#🇳🇱 Netherlands CIDR
-vless://49356da5-30e4-4d39-830e-50606ebeee13@51.250.24.232:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇳🇱 Netherlands CIDR
-vless://4086c00a-67a4-4d96-9c5f-2f177f26cb51@tw4.miyazono-kaori.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dlcdnets.asus.com&fp=chrome&pbk=IqsN_cPeCP6oEXtYQMMWBiUim-r9lxq7YGj_mE3992g&sid=e6d59aff03e5b0&type=tcp&headerType=none#🇹🇼 Taiwan
+vless://0e38ace5-e9ba-4e93-990a-68d2d3269a52@51.250.103.104:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇳🇱 Netherlands
+vless://0e38ace5-e9ba-4e93-990a-68d2d3269a52@51.250.106.87:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇳🇱 Netherlands CIDR
+vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@151.242.191.161:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.samsung.com&fp=chrome&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&sid=a1b2c3d4#🇷🇴 Romania
 vless://e3c68e9e-5bf3-4e4b-abac-806053baa43a@77.110.124.100:80?security=none&type=tcp#🇺🇸 United States
+vless://0c8a9f50-51b3-43b5-b1fb-09fc3131a800@gwapp-ru01.freenets.store:443?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=gwapp-ru01.freenets.store&type=tcp#🇷🇺 Russia

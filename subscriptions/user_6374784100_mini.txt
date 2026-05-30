@@ -2,7 +2,7 @@
 #profile-update-interval: 3
 #support-url: https://t.me/akita_bio
 #announce: TG: @AkitaUS
-#subscription-userinfo: upload=2478018; download=2478018; total=4956036; expire=0
+#subscription-userinfo: upload=2506146; download=2506146; total=5012292; expire=0
 
 vless://3ea2d8f2-12c1-4189-8cc5-91d0ee9f5ca0@84.21.189.197:443?security=reality&encryption=none&pbk=C1hW1bTA9WOacIK-fHHg-HLkDZ3FY7FhEhAyldMSUEA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=queuev4.vk.com&sid=a1b2c3d4e5f6#%F0%9F%87%B7%F0%9F%87%BA%20RUSSIA%20%2F%2F%20Russia%20%232
 vless://e42eb55f-289f-419f-86c7-b47e49d10c98@77.110.121.202:23164?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=XoIxfrtYaItQL-X_zvZqTcCHBF3_LhIiptW9ph3Rgjs&sni=teamdocs.su&sid=62&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden

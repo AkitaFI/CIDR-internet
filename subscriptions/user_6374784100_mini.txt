@@ -2,7 +2,7 @@
 #profile-update-interval: 3
 #support-url: https://t.me/akita_bio
 #announce: TG: @AkitaUS
-#subscription-userinfo: upload=351152128; download=351152128; total=10995116277760; expire=0
+#subscription-userinfo: upload=390047744; download=390047744; total=10995116277760; expire=0
 
 vless://62470850-6875-4008-b773-925d7ad510a0@199.34.228.53:443?encryption=none&type=xhttp&security=tls&path=%2FTelegram-Zedmodeon&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&sni=my.pars-cdn.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
 vless://a1b19834-a5e3-4d49-9301-aaa3fb248f49@185.14.46.20.blanesik.space:443?encryption=none&type=grpc&serviceName=%2Fsequre%2Fgrpc&security=tls&alpn=h2&fp=chrome&sni=185.14.46.20.blanesik.space#%F0%9F%87%B7%F0%9F%87%BA%20Russia

@@ -2,7 +2,7 @@
 #profile-update-interval: 3
 #support-url: https://t.me/akita_bio
 #announce: TG: @AkitaUS
-#subscription-userinfo: upload=2901634; download=2901634; total=5803268; expire=0
+#subscription-userinfo: upload=2920102; download=2920102; total=5840204; expire=0
 
 vless://Fluffy_VPN-757700MA@51.250.106.197:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=gLwECcibrJ-wErHzfYbPzMDVu6960VNuXUhjOQ3rUQk&sni=max.ru#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5BCIDR%5D
 vless://d0b60427-ccb0-4026-aeec-d095b6b7dd08@nl-5.srv.vpnza300.org:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=4Y1wdeQGqDecReK5UrA5RV7Dcq9QnfuArtSzujdJbXo&security=reality&sid=6eda877655137aff&sni=nl-5.srv.vpnza300.org&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands

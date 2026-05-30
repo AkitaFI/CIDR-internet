@@ -2,7 +2,7 @@
 #profile-update-interval: 3
 #support-url: https://t.me/akita_bio
 #announce: TG: @AkitaUS
-#subscription-userinfo: upload=2113313; download=2113313; total=4226626; expire=0
+#subscription-userinfo: upload=2136986; download=2136986; total=4273972; expire=0
 
 vless://9beef3b2-5749-4529-a91a-29af1c043d6b@nl2.panel.cleanersaz.help:4443?type=tcp&security=tls&sni=nl2.panel.cleanersaz.help#%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
 vless://c1e32c6c-9a14-4edf-95c7-b1236a55aa07@95.182.80.130:16146?mode=gun&security=reality&encryption=none&pbk=lCkGLh6mypATTCMgrwjjqOxWBISCIB9fmdt_5Fff3Ug&fp=chrome&spx=/&type=grpc&sni=www.samsung.com&sid=e7eac240#%20%F0%9F%87%B7%F0%9F%87%BA%20Russia

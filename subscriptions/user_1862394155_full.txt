@@ -2,7 +2,7 @@
 #profile-update-interval: 3
 #support-url: https://t.me/akita_bio
 #announce: TG: @AkitaUS
-#subscription-userinfo: upload=303991808; download=303991808; total=10995116277760; expire=0
+#subscription-userinfo: upload=339920896; download=339920896; total=10995116277760; expire=0
 
 vless://98beeca0-525a-4835-aa33-4ba76f15cfd0@104.19.229.21:443?encryption=none&security=tls&sni=dawn-bonus-93ec.matin123456.workers.dev&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=dawn-bonus-93ec.matin123456.workers.dev&path=%2F%3Fed%3D2560#%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
 vless://a67e3045-626c-42c9-8cc0-a5afa6b18b05@95.85.228.146:8443?security=reality&type=tcp&sni=io.ozone.ru&fp=chrome&flow=xtls-rprx-vision&sid=92d0c4089b6c1da3&pbk=A9jwrodyycJJV-apFQ91_rrh1vfJ_hSzZGNP9GBPGCM#%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia

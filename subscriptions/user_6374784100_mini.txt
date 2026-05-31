@@ -2,5 +2,5 @@
 #profile-update-interval: 3
 #support-url: https://t.me/akita_bio
 #announce: TG: @AkitaUS
-#subscription-userinfo: upload=902621184; download=902621184; total=10995116277760; expire=0
+#subscription-userinfo: upload=935146496; download=935146496; total=10995116277760; expire=0
 

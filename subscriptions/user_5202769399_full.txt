@@ -2,7 +2,7 @@
 #profile-update-interval: 3
 #support-url: https://t.me/akita_bio
 #announce: TG: @AkitaUS
-#subscription-userinfo: upload=992587776; download=992587776; total=10995116277760; expire=0
+#subscription-userinfo: upload=1012231168; download=1012231168; total=10995116277760; expire=0
 
 vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad#%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
 vless://f5a25ee5-ff24-41b0-80e8-ccafdc866614@193.233.23.121:40611?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=tcp&headerType=none#%20%F0%9F%87%AB%F0%9F%87%AE%20Finland

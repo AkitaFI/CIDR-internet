@@ -2,7 +2,7 @@
 #profile-update-interval: 3
 #support-url: https://t.me/akita_bio
 #announce: TG: @AkitaUS
-#subscription-userinfo: upload=2053801984; download=2053801984; total=10995116277760; expire=0
+#subscription-userinfo: upload=2079601664; download=2079601664; total=10995116277760; expire=0
 
 vless://9a4100b2-45df-4867-bed7-bb9b98cc771f@78.159.245.43:25567?security=reality&encryption=none&pbk=tsxzBG6xHNl1Nu8XPpd3hWk_zPGrpFrv2Z-difc3nGY&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=iv.kommersant.ru&sid=a5bd715847213387#%F0%9F%87%AA%F0%9F%87%BA%20%F0%9F%8D%93%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%7C%20%D0%92%D1%81%D0%B5%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B
 vless://3ea2d8f2-12c1-4189-8cc5-91d0ee9f5ca0@185.228.232.150:443?security=reality&encryption=none&pbk=C1hW1bTA9WOacIK-fHHg-HLkDZ3FY7FhEhAyldMSUEA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=queuev4.vk.com&sid=a1b2c3d4e5f6#%F0%9F%87%AB%F0%9F%87%AE%20FINLAND%20%2F%2F%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%231

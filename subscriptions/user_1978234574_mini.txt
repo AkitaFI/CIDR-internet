@@ -2,7 +2,7 @@
 #profile-update-interval: 3
 #support-url: https://t.me/akita_bio
 #announce: TG: @AkitaUS
-#subscription-userinfo: upload=1890225152; download=1890225152; total=10995116277760; expire=0
+#subscription-userinfo: upload=1900323840; download=1900323840; total=10995116277760; expire=0
 
 vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@fx3033.game2lizard.com:2083?encryption=none&type=ws&security=tls&path=/?ed=2560&sni=mzaxmc0.lizard2shop.com&fp=360&allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AA%20Germany
 vless://InternetAzadRobot@fastly.com:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=xhttp&path=%2Ftofan&host=sv6tignal.global.ssl.fastly.net&mode=auto#%F0%9F%87%AE%F0%9F%87%B9%20Italy

@@ -2,7 +2,7 @@
 #profile-update-interval: 3
 #support-url: https://t.me/akita_bio
 #announce: TG: @AkitaUS
-#subscription-userinfo: upload=573072384; download=573072384; total=10995116277760; expire=0
+#subscription-userinfo: upload=591627264; download=591627264; total=10995116277760; expire=0
 
 vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@151.242.191.161:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.samsung.com&fp=chrome&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&sid=a1b2c3d4#%F0%9F%87%B7%F0%9F%87%B4%20Romania
 vless://ea484535-0170-4ec8-bb3c-a9dbaa7412d7@64.188.56.149:12443?type=tcp&headerType=none&security=reality&encryption=none&sni=sun6-21.userapi.com&fp=chrome&pbk=D3bNJPmy4YJqhWQ3Xv1Fu3Z1danrTzswShytnkkG9Q4&sid=ca4a1317e03791b3&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong

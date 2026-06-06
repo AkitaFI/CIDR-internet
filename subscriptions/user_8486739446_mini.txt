@@ -2,7 +2,7 @@
 #profile-update-interval: 3
 #support-url: https://t.me/akita_bio
 #announce: TG: @AkitaUS
-#subscription-userinfo: upload=2146951168; download=2146951168; total=10995116277760; expire=0
+#subscription-userinfo: upload=2179282944; download=2179282944; total=10995116277760; expire=0
 
 vless://f4e98990-648f-448a-9264-64040b413811@cdn4.cloud-vk.com:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=rbc.ru&fp=firefox&pbk=FmCNU-XuNo9Z5RUPzjr9raJtDLdl2rTOJa2AoQgBulI&sid=1f7b8197dcce92&type=tcp&headerType=none&path=%2f#%F0%9F%87%B7%F0%9F%87%BA%20Russia
 vless://1d4b327f-110d-45c0-b1a0-0c5489789f33@31.76.113.132:443?mode=auto&path=/xhttp-proxy&security=reality&encryption=none&pbk=akcAXaW7GNwXT6bTrtD6oZIY9rdEzW4TfZvYqDRzsTc&fp=chrome&spx=/&type=xhttp&sni=5post-gate.x5.ru&sid=a8f3c1d7e9b4c2f6&brand=@Arvand_soul#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom

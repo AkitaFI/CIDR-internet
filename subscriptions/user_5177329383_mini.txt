@@ -2,7 +2,7 @@
 #profile-update-interval: 3
 #support-url: https://t.me/akita_bio
 #announce: TG: @AkitaUS
-#subscription-userinfo: upload=757064704; download=757064704; total=10995116277760; expire=0
+#subscription-userinfo: upload=793503744; download=793503744; total=10995116277760; expire=0
 
 vless://785c7771-8d7f-48ca-bbc2-1a22e360d4d0@2.26.88.118:8443?mode=gun&security=reality&encryption=none&pbk=TdT90qbeyM7WO0QCztOhKDGKOi2qaFFif0hO0cfK1E4&fp=chrome&spx=/&type=grpc&serviceName=max.ru&sid=ea1058117be12087#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
 vless://b6da9aec-37fa-4342-9559-033a26094c96@51.250.102.69:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5BCIDR%5D

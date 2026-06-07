@@ -2,7 +2,7 @@
 #profile-update-interval: 3
 #support-url: https://t.me/akita_bio
 #announce: TG: @AkitaUS
-#subscription-userinfo: upload=3556258816; download=3556258816; total=10995116277760; expire=0
+#subscription-userinfo: upload=3579937792; download=3579937792; total=10995116277760; expire=0
 
 vless://adea61c0-0bb2-4ad3-8dba-7766eebd50f8@45.43.92.110:7443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=www.microsoft.com&sid=d82fb387&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands
 vless://d7982ad9-8a6c-4a9a-8383-e52a334c45b9@top1342980873.mwscdn.ru:443?mode=auto&path=%2Fbuy&security=tls&encryption=none&insecure=0&host=top1342980873.mwscdn.ru&fp=chrome&type=xhttp&allowInsecure=0&sni=top1342980873.mwscdn.ru#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%7C%20LTE%20%F0%9F%AA%BC

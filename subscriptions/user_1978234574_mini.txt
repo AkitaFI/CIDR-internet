@@ -2,7 +2,7 @@
 #profile-update-interval: 3
 #support-url: https://t.me/akita_bio
 #announce: TG: @AkitaUS
-#subscription-userinfo: upload=3872722944; download=3872722944; total=10995116277760; expire=0
+#subscription-userinfo: upload=3889376256; download=3889376256; total=10995116277760; expire=0
 
 vless://353d1d68-1523-415e-9d89-d14a9a55e253@best2.darkteam.info:443?type=ws&path=%2FDarkTeam_VPN&host=speedtest.net&sni=best2.darkteam.info#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine
 vless://73a27a6d-a111-4576-a6b3-e8594aeac2f2@api-maps.xwhiteness.top:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api-maps.xwhiteness.top&fp=firefox&pbk=ek7vNW3A7JfrSIf5DI1amef5Zh9v-H8E7GhOXDWM6hQ&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Germany

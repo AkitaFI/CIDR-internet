@@ -2,7 +2,7 @@
 #profile-update-interval: 3
 #support-url: https://t.me/akita_bio
 #announce: TG: @AkitaUS
-#subscription-userinfo: upload=571560960; download=571560960; total=10995116277760; expire=0
+#subscription-userinfo: upload=579578880; download=579578880; total=10995116277760; expire=0
 
 vless://347a56c2-a453-4b32-86cd-7522943df88c@45.83.182.102:2087?encryption=none&type=tcp&security=reality&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&sni=api-maps.yandex.ru&fp=chrome&allowInsecure=1&pbk=vZuBWF0YzlKI0fJWxU6hmOLHHQ5Qb1kf35HbZDcFCH4&sid=493c3d4e37c23c28&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%AA%20Estonia
 vless://b67ed271-5a34-4d07-9970-f8ba27ca2c8a@167.104.223.14:443?security=reality&encryption=none&pbk=gXc2c9NIWxhUTb7HoBCjvo-uB1L4iQj4TH38g4YhxHE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=fcd9787f#%F0%9F%87%AC%F0%9F%87%A7%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F%20%F0%9F%A7%8A

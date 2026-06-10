@@ -2,7 +2,7 @@
 #profile-update-interval: 3
 #support-url: https://t.me/akita_bio
 #announce: TG: @AkitaUS
-#subscription-userinfo: upload=5475707904; download=5475707904; total=10995116277760; expire=0
+#subscription-userinfo: upload=5495782400; download=5495782400; total=10995116277760; expire=0
 
 vless://a265805b-b887-4431-a3b4-fd6eb5647fac@31.76.93.54:8443?security=reality&encryption=none&pbk=BrGL0gTKK_Ir2VwJOa91Vd8870DswnOXhA6-F92RBGI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=a987b6bd1781daa3#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20%F0%9F%A7%8A
 vless://e70ad57f-5b39-46f5-ba70-44953ad23164@45.153.190.26:443?mode=gun&security=reality&encryption=none&pbk=gUU8rOYxXtE2ENvQ-RLrmaON2lw2L9lObStu-EaJxhs&fp=chrome&type=grpc&serviceName=gun&sni=mageia.ubuntuhosting.host&sid=d05e7ab9872797f4#%F0%9F%87%B7%F0%9F%87%BA%20Russia

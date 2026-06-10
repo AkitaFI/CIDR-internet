@@ -2,7 +2,7 @@
 #profile-update-interval: 3
 #support-url: https://t.me/akita_bio
 #announce: TG: @AkitaUS
-#subscription-userinfo: upload=2907441152; download=2907441152; total=10995116277760; expire=0
+#subscription-userinfo: upload=2938469376; download=2938469376; total=10995116277760; expire=0
 
 vless://InternetAzadRobot@151.101.1.57:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=/TignaliSWithYou&security=none&encryption=none&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&host=tignaltofan.global.ssl.fastly.net&type=xhttp#%F0%9F%87%AB%F0%9F%87%B7%20France
 vless://d205ae68-0819-473c-b425-6c5947ac2f8d@212.41.9.16:443?security=reality&encryption=none&pbk=QKw-cuh8QjHzmIpr2SGfU6lP86vPJRfPVqPKBHZaA0Y&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=apple.morro-settings.ru&sid=09b6fb#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%F0%9F%A7%8A

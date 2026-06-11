@@ -2,7 +2,7 @@
 #profile-update-interval: 3
 #support-url: https://t.me/akita_bio
 #announce: TG: @AkitaUS
-#subscription-userinfo: upload=5775070208; download=5775070208; total=10995116277760; expire=0
+#subscription-userinfo: upload=5812875264; download=5812875264; total=10995116277760; expire=0
 
 vless://4ef6e1cd-4410-4dfd-b03c-aca49aebefb7@se.datanode-internal.net:443?security=reality&encryption=none&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=abbcd128#%F0%9F%AA%BC%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%D1%8B%20%D0%B1%D0%B5%D0%BB%D1%8B%D1%85%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%20%F0%9F%AA%BC%F0%9F%91%87
 vless://71b0bd15-a03a-481e-a52d-74042c8db157@72.56.7.174:443?flow=xtls-rprx-vision&fm={"finalmask":{"tcp":[{"type":"fragment","settings":{"packets":"tlshello","length":"100-200","delay":"10-20","maxSplit":"3-6"}}]}}&fp=firefox&pbk=pAM88jLm7lCwGSl9VdizATHzdzlJRwuTlcDyhrfHL2s&security=reality&sid=fa&sni=slopllex.app&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20Finland

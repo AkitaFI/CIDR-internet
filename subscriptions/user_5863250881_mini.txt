@@ -2,7 +2,7 @@
 #profile-update-interval: 3
 #support-url: https://t.me/akita_bio
 #announce: TG: @AkitaUS
-#subscription-userinfo: upload=1642133504; download=1642133504; total=10995116277760; expire=0
+#subscription-userinfo: upload=1656129536; download=1656129536; total=10995116277760; expire=0
 
 vless://13bbbb75-2ec5-4262-9784-fe8b6e94510b@yt6.safepass.click:443?security=reality&encryption=none&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&host=@ProxyVPN11&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=timeweb.cloud&sid=965af8960474c29c#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands
 vless://1dfd369b-d13c-4a2d-89e8-60961656d1ce@109.237.98.81:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=uAabfPYujQGS9CY-h1on-TOtHU-y-vrumPXWo6G6AVg&sid=e92d8fca&sni=api-maps.yandex.ru&spx=/Z3n3VfMdMT9bjWg#%F0%9F%87%B5%F0%9F%87%B1%20Poland

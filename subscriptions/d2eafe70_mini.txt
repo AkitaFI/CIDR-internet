@@ -1,0 +1,6 @@
+#profile-title: Anix VPN - Mini 🕊️
+#profile-update-interval: 3
+#support-url: https://t.me/akita_bio
+#announce: TG: @AkitaUS
+#subscription-userinfo: upload=23239680; download=23239680; total=10995116277760; expire=0
+
